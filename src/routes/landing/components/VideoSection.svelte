@@ -1,5 +1,6 @@
 <script lang="ts">
     import { base } from "$app/paths";
+    import LocalStorageUtil from "$lib/localStorageUtil";
     import { fetchVideo } from "$lib/strapiClient";
     import { onMount } from "svelte";
     import { inview } from "svelte-inview";
@@ -9,6 +10,7 @@
     let played = $state(false);
     let youtubeId: string = $state("");
     let videoSubline: string = $state("");
+    const locale = $derived(LocalStorageUtil.getLocale());
 
     let inView = $state(false);
 
@@ -49,7 +51,7 @@
                     class="absolute inset-0 w-full h-full cursor-pointer group"
                     aria-label="Video abspielen (lädt YouTube)">
                     <img
-                        src="{base}/images/video_thumb.jpg"
+                        src="{base}/images/video-thumb-{locale}.jpg"
                         alt=""
                         class="w-full h-full object-cover" />
                     <div class="absolute inset-0 bg-black/10 flex items-center justify-center transition group-hover:bg-black/20">
