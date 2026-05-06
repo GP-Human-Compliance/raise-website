@@ -54,7 +54,7 @@
                     aria-label="Download on the App Store"
                     class="block transition-transform hover:scale-105 focus:outline-none focus-visible:ring-2 focus-visible:ring-black rounded-md">
                     <img
-                        src="{base}/images/badges/app-store-{locale}.svg"
+                        src="{base}/images/badges/app-store-{locale}.svg?v=2"
                         alt="Download on the App Store"
                         class="h-[44px] md:h-[52px] w-auto" />
                 </a>
@@ -65,7 +65,7 @@
                     aria-label="Get it on Google Play"
                     class="block transition-transform hover:scale-105 focus:outline-none focus-visible:ring-2 focus-visible:ring-black rounded-md">
                     <img
-                        src="{base}/images/badges/google-play-{locale}.png"
+                        src="{base}/images/badges/google-play-{locale}.png?v=2"
                         alt="Get it on Google Play"
                         class="h-[44px] md:h-[52px] w-auto" />
                 </a>
