@@ -10,9 +10,9 @@
     "mobileNavSteps": "Prinzip",
     "mobileNavExample": "Beispiele",
     "mobileNavMultiplayer": "Multiplayer (demnächst)",
-    "mobileNavTesterRegistration": "Tester werden",
+    "mobileNavTesterRegistration": "Jetzt testen",
     "mobileNavBugReport": "Fehler melden",
-    "testerRegistrationButtonText": "JETZT TESTER WERDEN",
+    "testerRegistrationButtonText": "JETZT TESTEN",
     "mobileMenueButtonCloseText": "Schließen",
     "bugReportButtonText": "FEHLER MELDEN",
     "localizations": [
@@ -27,9 +27,9 @@
         "mobileNavSteps": "Principle",
         "mobileNavExample": "Use Cases",
         "mobileNavMultiplayer": "Multiplayer (Coming soon)",
-        "mobileNavTesterRegistration": "Become a tester",
+        "mobileNavTesterRegistration": "Test it now",
         "mobileNavBugReport": "Bugreport",
-        "testerRegistrationButtonText": "BECOME A TESTER",
+        "testerRegistrationButtonText": "TEST IT NOW",
         "mobileMenueButtonCloseText": "Close",
         "bugReportButtonText": "REPORT A BUG"
       }
