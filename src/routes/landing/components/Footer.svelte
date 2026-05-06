@@ -1,4 +1,5 @@
 <script lang="ts">
+    import { base } from "$app/paths";
     import CustomDialog from "$lib/components/CustomDialog.svelte";
     import { fetchBetaAgreement, fetchFooterData, fetchImprint, fetchLegal, fetchPrivacyPolicy } from "$lib/strapiClient";
 
@@ -68,7 +69,7 @@
     <div class="max-w-[1060px] mx-auto px-4">
         <div class="bg-black text-white flex justify-between items-center">
             <div class="flex items-center space-x-3">
-                <a href="/">
+                <a href="{base}/">
                     <div class="inline cursor-pointer" on:click={scrollToTop}>
                         <img src={logoUrl} class="w-auto h-[103px]" />
                     </div>

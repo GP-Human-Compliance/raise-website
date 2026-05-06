@@ -10,6 +10,7 @@
 // returns an empty string — `getStrapiBaseUrl() + entry.url` still resolves
 // correctly to a local path.
 
+import { base } from "$app/paths";
 import LocalStorageUtil from "./localStorageUtil";
 
 const modules = import.meta.glob("./content/*.json", {
@@ -38,7 +39,7 @@ function get(key, withLocale = true) {
 }
 
 export function getStrapiBaseUrl() {
-    return "";
+    return base;
 }
 
 export const fetchLogo = () => get("logo", false);

@@ -1,4 +1,5 @@
 <script lang="ts">
+    import { base } from "$app/paths";
     import { fetchVideo } from "$lib/strapiClient";
     import { onMount } from "svelte";
     import { inview } from "svelte-inview";
@@ -48,12 +49,12 @@
                     class="absolute inset-0 w-full h-full cursor-pointer group"
                     aria-label="Video abspielen (lädt YouTube)">
                     <img
-                        src="/images/video_thumb.jpg"
+                        src="{base}/images/video_thumb.jpg"
                         alt=""
                         class="w-full h-full object-cover" />
                     <div class="absolute inset-0 bg-black/10 flex items-center justify-center transition group-hover:bg-black/20">
                         <span class="w-20 h-20 rounded-full bg-black/30 flex items-center justify-center backdrop-blur-sm">
-                            <img src="/images/play_icon.svg" alt="" class="h-10 w-10" />
+                            <img src="{base}/images/play_icon.svg" alt="" class="h-10 w-10" />
                         </span>
                     </div>
                     <div class="absolute bottom-2 right-2 text-[10px] md:text-xs px-2 py-1 rounded bg-black/50 text-white pointer-events-none">

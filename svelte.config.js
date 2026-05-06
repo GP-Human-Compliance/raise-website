@@ -1,6 +1,11 @@
 import adapter from '@sveltejs/adapter-static';
 import { vitePreprocess } from "@sveltejs/vite-plugin-svelte";
 
+// Subpath when deployed at <user>.github.io/<repo>/ (no custom domain).
+// Drop to '' once DNS points www.raise-app.de at GH Pages and a CNAME file
+// is in static/ — at that point the site lives at the apex.
+const basePath = process.env.BASE_PATH ?? '';
+
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
     preprocess: vitePreprocess(),
@@ -8,8 +13,8 @@ const config = {
         adapter: adapter({
             fallback: 'index.html'
         }),
-        // Mark path non-relative, otherwise SvelteKit assumes it works in a sub-directory
         paths: {
+            base: basePath,
             relative: false
         }
     },
