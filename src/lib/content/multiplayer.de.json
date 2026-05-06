@@ -1,0 +1,54 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "w8y37csp7ayqto955n92gnrq",
+    "createdAt": "2025-10-27T08:42:43.149Z",
+    "updatedAt": "2025-11-05T13:45:32.938Z",
+    "publishedAt": null,
+    "locale": "de",
+    "cirlcleRightUp": "Weniger<br />Gruppenchats.<br /><br />Mehr Gruppen-<br />Entscheidungen.",
+    "cirlcleLeftDown": "DEMNÄCHST<br />VERFÜGBAR",
+    "mobileHeadline": "Mehr Gruppenentscheidungen, weniger Gruppenchats.",
+    "mobileUnderCirlcle": "COMING SOON",
+    "mobileSubText": "RAISE Multiplayer macht Gruppenentscheidungen schneller, fairer und mehr Spaß für alle. So geht gemeinsam entscheiden in entspannt. Demnächst verfügbar.",
+    "bigCirlceText": "RAISE Multiplayer macht Gruppenentscheidungen\n<br />schneller und fairer und bringt mehr Spaß für alle.\n<br />So geht gemeinsam entscheiden in entspannt.",
+    "multiplayerAnimation": {
+      "id": 80,
+      "documentId": "ccq2alu42l1eja8gr2vz3dgz",
+      "name": "251105_Multiplayer_animation.riv",
+      "alternativeText": null,
+      "caption": null,
+      "width": null,
+      "height": null,
+      "formats": null,
+      "hash": "251105_Multiplayer_animation_afbd7b964c",
+      "ext": ".riv",
+      "mime": "application/octet-stream",
+      "size": 343.87,
+      "url": "/strapi-media/uploads/251105_Multiplayer_animation_afbd7b964c.riv",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-11-05T09:05:48.666Z",
+      "updatedAt": "2025-11-05T09:05:48.666Z",
+      "publishedAt": "2025-11-05T09:05:48.667Z"
+    },
+    "localizations": [
+      {
+        "id": 2,
+        "documentId": "w8y37csp7ayqto955n92gnrq",
+        "createdAt": "2025-10-31T11:58:46.757Z",
+        "updatedAt": "2025-11-05T13:45:41.672Z",
+        "publishedAt": null,
+        "locale": "en",
+        "cirlcleRightUp": "Fewer<br />group chats,<br /><br />more group <br />decisions.",
+        "cirlcleLeftDown": "COMING<br />SOON",
+        "mobileHeadline": null,
+        "mobileUnderCirlcle": null,
+        "mobileSubText": "Make group decisions faster and fairer —\nand a lot more fun for everyone.\nIntroducing RAISE multiplayer - because\nshared choices deserve better outcomes\ntoo.",
+        "bigCirlceText": "Make group decisions faster and fairer <br/> —\nand a lot more fun for everyone.<br/>\nIntroducing RAISE multiplayer - because shared choices <br/> deserve better outcomes too."
+      }
+    ]
+  },
+  "meta": {}
+}

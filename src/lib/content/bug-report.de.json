@@ -1,0 +1,33 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "khq69x8mcykeve4wl56tizdg",
+    "subject": "Raise App – Feedback / Problem",
+    "body": "Hey raise-Team,\n\nich bin über einen Fehler gestolpert: \n[Beschreibe den Fehler und das eigentlich erwartete Verhalten]\n\n\n\nVersion: [Versionsnummer (Buildnummer)]\nSystem: [Betriebssystem], [Gerät]",
+    "createdAt": "2025-10-20T12:41:32.850Z",
+    "updatedAt": "2025-11-05T13:44:40.501Z",
+    "publishedAt": null,
+    "locale": "de",
+    "mailto": "info@gp-hc.de",
+    "textUnderButton": "Du hast einen Fehler entdeckt oder bist \nüber etwas gestolpert, das Dich stört?",
+    "subText": " Dann immer her damit, wir sind für jedes Feedback dankbar.",
+    "buttonText": "BUGREPORT ",
+    "localizations": [
+      {
+        "id": 2,
+        "documentId": "khq69x8mcykeve4wl56tizdg",
+        "subject": "Raise App – Feedback / Problem",
+        "body": "Hey raise team,\n\nI stumbled over... [describe the bug and the expected behavior]\n\n\n\nVersion: [Version number (Build number)]\nSystem: [Operating system}, {Device]",
+        "createdAt": "2025-10-31T13:38:16.384Z",
+        "updatedAt": "2025-11-05T13:44:38.215Z",
+        "publishedAt": null,
+        "locale": "en",
+        "mailto": "info@gp-hc.de",
+        "textUnderButton": "You’ve discovered a bug or stumbled across something that’s bugging you?",
+        "subText": "We can’t wait to hear all about it and thank you for deciding to share it with us.",
+        "buttonText": "BUGREPORT "
+      }
+    ]
+  },
+  "meta": {}
+}

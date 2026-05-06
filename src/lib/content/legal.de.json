@@ -1,0 +1,1193 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "u5tsid8epl9pvibz5iyblgdz",
+    "title": "Allgemeine Geschäftsbedingungen (AGB)",
+    "content": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "1. Geltungsbereich",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB“) regeln die Nutzung der Software-Anwendung „raise“ (nachfolgend „App“) und der damit verbundenen Services, die von der GP Human Compliance GmbH (nachfolgend „Anbieterin“) angeboten werden. Die App richtet sich an Nutzer, die Unterstützung bei der Durchführung von Entscheidungsprozessen suchen, sei es alleine oder in der Gruppe. Die Nutzung der App und ihrer Services unterliegt ausschließlich diesen AGB. Abweichende oder entgegenstehende Bedingungen des Nutzers werden nicht anerkannt, es sei denn, die Anbieterin hat ihrer Geltung ausdrücklich schriftlich zugestimmt.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die AGB werden dem Nutzer vor Abschluss des Vertrages zur Kenntnis gebracht und sind jederzeit auf der Website der Anbieterin sowie innerhalb der App abrufbar und speicherbar.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "2. Vertragspartner",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Vertrag über die Nutzung der App kommt zustande zwischen:",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "GP Human Compliance GmbH, \nIm Altenschemel 52, \nD-67435 Neustadt an der Weinstraße",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "(nachfolgend „Anbieterin“) und dem Nutzer der App (nachfolgend „Nutzer“).",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "3. Vertragsgegenstand",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die Anbieterin stellt dem Nutzer die App „raise“ als Software-as-a-Service (SaaS) zur Verfügung. Die App unterstützt Nutzer bei der Durchführung von Entscheidungsprozessen, indem sie eine strukturierte Führung durch den Prozess ermöglicht und die Erstellung sowie Verwaltung der für jeden Parameter des Entscheidungsprozesses notwendigen Daten erlaubt. Die Entscheidungsprozesse können sowohl alleine als auch in der Gruppe durchgeführt werden. Für Gruppenprozesse bietet die App ein Berechtigungsmanagement, das es den Nutzern ermöglicht, den Zugriff der einzelnen Gruppenmitglieder zu verwalten. Zusätzlich ermöglicht die App den Mitgliedern einer Gruppe, im Rahmen eines Entscheidungsprozesses zu kollaborieren.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "4. AI-Services",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die App bietet optional die Möglichkeit, zusätzliche Unterstützung durch AI-Modelle von angebundenen AI-Dienstleistern zu erhalten. Die Nutzung dieser AI-Services ist freiwillig. Die AI-Modelle können Vorschläge für einzelne Parameter des Entscheidungsprozesses generieren, die der Nutzer für seine Prozesse nutzen kann. Zusätzlich kann die AI die fachliche Qualität der vom Nutzer generierten Daten prüfen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die von den AI-Services generierten Inhalte und Vorschläge dienen ausschließlich unterstützenden Zwecken und stellen keine verbindlichen Entscheidungen, Rechts- oder Finanzberatung dar. Der Nutzer ist allein verantwortlich für die Überprüfung, Bewertung und Nutzung der AI-generierten Inhalte sowie für seine eigenverantwortliche Entscheidungsfindung. Die Anbieterin wird transparent kommunizieren, wann Inhalte oder Vorschläge von der KI generiert wurden. Die Datenverarbeitung durch die angebundenen AI-Dienstleister erfolgt gemäß deren jeweiligen Datenschutzbestimmungen, über die sich der Nutzer gesondert informieren sollte. Die an die AI-Dienstleister übermittelten Daten werden von diesen nicht zu Trainingszwecken ihrer AI-Modelle genutzt.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "5. Kostenlose Basisversion ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die App ist in einer kostenlosen Basisversion verfügbar. Diese Basisversion bietet grundlegende Funktionen zur Durchführung von Entscheidungsprozessen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "6. Einsatz von Tracking-Technologien innerhalb der App",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Um Ihnen die App kostenfrei zur Verfügung stellen zu können und mithin die aufwändig erstellten Inhalte in vollem Umfang ausspielen und finanzieren zu können, setzen wir die Tracking-Technologie „Firebase Analytics“ des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 („Google“) ein. Für die Diensterbringung innerhalb der Europäischen Union ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland verantwortlich. Durch die Installation und Akzeptanz unserer Datenschutzerklärung willigen Sie",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "in die Datenverarbeitung in diesem Zusammenhang ein. Rechtsgrundlage ist daher Art. 6 Abs.1 lit. a DS-GVO. Diese Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die Nutzung unserer Dienste ist nicht von der Akzeptanz des Trackings abhängig, sodass die Nutzung auch nach der Ausübung des Widerspruchs uneingeschränkt möglich bleibt.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Details zur Erhebung, Verarbeitung und Nutzung personenbezogener Daten im Zusammenhang mit der Nutzung von „Firebase Analytics“ sind in der Datenschutzerklärung der Anbieterin geregelt die innerhalb der App abrufbar ist.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "7. Pflichten des Nutzers",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Nutzer ist verpflichtet, die App gemäß diesen AGB und den geltenden Gesetzen zu nutzen. Dies beinhaltet insbesondere:",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "bold": true,
+                "text": "Kompatibles Endgerät und Internetverbindung",
+                "type": "text"
+              },
+              {
+                "text": ": Der Nutzer ist für die Bereitstellung eines kompatiblen Endgeräts und einer stabilen Internetverbindung verantwortlich.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "bold": true,
+                "text": "App Store Account",
+                "type": "text"
+              },
+              {
+                "text": ": Für die Nutzung der App ist ein gültiger Account in den App Stores von Apple oder Google erforderlich.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "bold": true,
+                "text": "Wahrheitsgemäße Angaben",
+                "type": "text"
+              },
+              {
+                "text": ": Der Nutzer ist verpflichtet, bei der Registrierung und Nutzung der App wahrheitsgemäße Angaben zu machen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "bold": true,
+                "text": "Vertraulichkeit der Zugangsdaten",
+                "type": "text"
+              },
+              {
+                "text": ": Der Nutzer ist für die Geheimhaltung seiner Zugangsdaten verantwortlich und hat diese vor dem Zugriff Dritter zu schützen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "bold": true,
+                "text": "Einhaltung der Nutzungsbedingungen der App Stores",
+                "type": "text"
+              },
+              {
+                "text": ": Der Nutzer ist verpflichtet, die Nutzungsbedingungen der jeweiligen App Stores einzuhalten.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "8. Haftung",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die Anbieterin haftet nach den gesetzlichen Bestimmungen für Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung der Anbieterin, ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen. Für leichte Fahrlässigkeit haftet die Anbieterin nur bei Verletzung einer wesentlichen Vertragspflicht (Kardinalpflicht), deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung der Nutzer regelmäßig vertrauen darf, sowie bei Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit. Im Falle der Verletzung einer Kardinalpflicht ist die Haftung der Anbieterin auf den vertragstypischen, vorhersehbaren Schaden begrenzt.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 6,
+        "children": [
+          {
+            "text": "Besondere Haftungsregelungen zum Schutz der Anbieterin:",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "bold": true,
+                "text": "Haftungsausschluss für AI-generierte Inhalte",
+                "type": "text"
+              },
+              {
+                "text": ": Die Anbieterin übernimmt keine Haftung für die Richtigkeit, Vollständigkeit oder Aktualität der von den AI-Services generierten Vorschläge oder Analysen. Diese dienen lediglich als Unterstützung und ersetzen nicht die eigenverantwortliche Entscheidungsfindung des Nutzers. Der Nutzer ist allein verantwortlich für die Überprüfung und Nutzung der AI-generierten Inhalte.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "bold": true,
+                "text": "Keine Haftung für Datenverlust durch Nutzerfehler",
+                "type": "text"
+              },
+              {
+                "text": ": Die Anbieterin haftet nicht für Datenverluste, die auf Handlungen oder Unterlassungen des Nutzers zurückzuführen sind (z.B. versehentliches Löschen von Daten, unsachgemäße Nutzung der App). Die Anbieterin ergreift ihrerseits angemessene technische und organisatorische Maßnahmen zum Schutz der Nutzerdaten.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "bold": true,
+                "text": "Haftungsbegrenzung bei Drittanbieter-Services",
+                "type": "text"
+              },
+              {
+                "text": ": Soweit die App auf Dienste Dritter (z.B. AI-Dienstleister, App Stores) zurückgreift, übernimmt die Anbieterin keine Haftung für deren Leistungen oder etwaige Ausfälle. Es gelten die jeweiligen Geschäftsbedingungen der Drittanbieter. Die Anbieterin ist lediglich für die ordnungsgemäße Einbindung dieser Dienste in die App verantwortlich.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "bold": true,
+                "text": "Keine Haftung für Kompatibilitätsprobleme",
+                "type": "text"
+              },
+              {
+                "text": ": Die Anbieterin übernimmt keine Gewähr für die Kompatibilität der App mit allen Endgeräten oder Betriebssystemversionen. Der Nutzer ist für die Überprüfung der Kompatibilität selbst verantwortlich. Mindestanforderungen an Hardware und Software werden in den App-Beschreibungen oder FAQs kommuniziert.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "9. Datenschutz",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die Anbieterin erhebt, verarbeitet und nutzt personenbezogene Daten des Nutzers ausschließlich gemäß den Bestimmungen der Datenschutz-Grundverordnung (DSGVO) und den einschlägigen nationalen Datenschutzgesetzen. Details zur Erhebung, Verarbeitung und Nutzung personenbezogener Daten, einschließlich der Datenverarbeitung durch angebundene AI-Dienstleister und der Übermittlung von Daten an diese, sind in der gesonderten Datenschutzerklärung der Anbieterin geregelt, die auf der Website der Anbieterin und innerhalb der App abrufbar ist. Die Anbieterin hat mit allen angebundenen AI-Dienstleistern, die personenbezogene Daten im Auftrag der Anbieterin verarbeiten, entsprechende Auftragsverarbeitungsverträge (AVV) gemäß Art. 28 DSGVO abgeschlossen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "10. Änderungen der AGB",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die Anbieterin behält sich das Recht vor, diese AGB jederzeit mit Wirkung für die Zukunft zu ändern. Über Änderungen wird der Nutzer rechtzeitig vor deren Inkrafttreten per E-Mail oder durch eine Benachrichtigung innerhalb der App informiert. Widerspricht der Nutzer den Änderungen nicht innerhalb einer Frist von vier Wochen nach Zugang der Benachrichtigung, gelten die geänderten AGB als angenommen. Auf das Widerspruchsrecht und die Folgen eines unterlassenen Widerspruchs wird die Anbieterin den Nutzer in der Benachrichtigung gesondert hinweisen. Bei wesentlichen Änderungen, die den Vertragsgegenstand oder die Hauptleistungspflichten betreffen, wird die Anbieterin eine aktive Zustimmung des Nutzers einholen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "11. Schlussbestimmungen",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Sofern der Nutzer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag der Sitz der Anbieterin. Für Verbraucher gilt der gesetzliche Gerichtsstand ihres Wohnsitzes.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Sollten einzelne Bestimmungen dieser AGB ganz oder teilweise unwirksam sein oder werden, so wird hierdurch die Gültigkeit der übrigen Bestimmungen nicht berührt. Die ganz oder teilweise unwirksame Regelung wird durch eine Regelung ersetzt, deren wirtschaftlicher Erfolg dem der unwirksamen Regelung am nächsten kommt. Entsprechendes gilt für Regelungslücken.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "bold": true,
+            "text": "Online-Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO:",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die Anbieterin ist weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-10-20T15:19:40.100Z",
+    "updatedAt": "2025-11-06T09:58:56.684Z",
+    "publishedAt": null,
+    "locale": "de",
+    "localizations": [
+      {
+        "id": 2,
+        "documentId": "u5tsid8epl9pvibz5iyblgdz",
+        "title": "Terms",
+        "content": [
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "1. Geltungsbereich",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB“) regeln die Nutzung der Software-Anwendung „raise“ (nachfolgend „App“) und der damit verbundenen Services, die von der GP Human Compliance GmbH (nachfolgend „Anbieterin“) angeboten werden. Die App richtet sich an Nutzer, die Unterstützung bei der Durchführung von Entscheidungsprozessen suchen, sei es alleine oder in der Gruppe. Die Nutzung der App und ihrer Services unterliegt ausschließlich diesen AGB. Abweichende oder entgegenstehende Bedingungen des Nutzers werden nicht anerkannt, es sei denn, die Anbieterin hat ihrer Geltung ausdrücklich schriftlich zugestimmt.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die AGB werden dem Nutzer vor Abschluss des Vertrages zur Kenntnis gebracht und sind jederzeit auf der Website der Anbieterin sowie innerhalb der App abrufbar und speicherbar.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "2. Vertragspartner",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Vertrag über die Nutzung der App kommt zustande zwischen:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "GP Human Compliance GmbH, \nIm Altenschemel 52, \nD-67435 Neustadt an der Weinstraße",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "(nachfolgend „Anbieterin“) und dem Nutzer der App (nachfolgend „Nutzer“).",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "3. Vertragsgegenstand",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die Anbieterin stellt dem Nutzer die App „raise“ als Software-as-a-Service (SaaS) zur Verfügung. Die App unterstützt Nutzer bei der Durchführung von Entscheidungsprozessen, indem sie eine strukturierte Führung durch den Prozess ermöglicht und die Erstellung sowie Verwaltung der für jeden Parameter des Entscheidungsprozesses notwendigen Daten erlaubt. Die Entscheidungsprozesse können sowohl alleine als auch in der Gruppe durchgeführt werden. Für Gruppenprozesse bietet die App ein Berechtigungsmanagement, das es den Nutzern ermöglicht, den Zugriff der einzelnen Gruppenmitglieder zu verwalten. Zusätzlich ermöglicht die App den Mitgliedern einer Gruppe, im Rahmen eines Entscheidungsprozesses zu kollaborieren.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "4. AI-Services",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die App bietet optional die Möglichkeit, zusätzliche Unterstützung durch AI-Modelle von angebundenen AI-Dienstleistern zu erhalten. Die Nutzung dieser AI-Services ist freiwillig. Die AI-Modelle können Vorschläge für einzelne Parameter des Entscheidungsprozesses generieren, die der Nutzer für seine Prozesse nutzen kann. Zusätzlich kann die AI die fachliche Qualität der vom Nutzer generierten Daten prüfen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die von den AI-Services generierten Inhalte und Vorschläge dienen ausschließlich unterstützenden Zwecken und stellen keine verbindlichen Entscheidungen, Rechts- oder Finanzberatung dar. Der Nutzer ist allein verantwortlich für die Überprüfung, Bewertung und Nutzung der AI-generierten Inhalte sowie für seine eigenverantwortliche Entscheidungsfindung. Die Anbieterin wird transparent kommunizieren, wann Inhalte oder Vorschläge von der KI generiert wurden. Die Datenverarbeitung durch die angebundenen AI-Dienstleister erfolgt gemäß deren jeweiligen Datenschutzbestimmungen, über die sich der Nutzer gesondert informieren sollte. Die an die AI-Dienstleister übermittelten Daten werden von diesen nicht zu Trainingszwecken ihrer AI-Modelle genutzt.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "5. Kostenlose Basisversion ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die App ist in einer kostenlosen Basisversion verfügbar. Diese Basisversion bietet grundlegende Funktionen zur Durchführung von Entscheidungsprozessen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "6. Einsatz von Tracking-Technologien innerhalb der App",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Um Ihnen die App kostenfrei zur Verfügung stellen zu können und mithin die aufwändig erstellten Inhalte in vollem Umfang ausspielen und finanzieren zu können, setzen wir die Tracking-Technologie „Firebase Analytics“ des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 („Google“) ein. Für die Diensterbringung innerhalb der Europäischen Union ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland verantwortlich. Durch die Installation und Akzeptanz unserer Datenschutzerklärung willigen Sie",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "in die Datenverarbeitung in diesem Zusammenhang ein. Rechtsgrundlage ist daher Art. 6 Abs.1 lit. a DS-GVO. Diese Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die Nutzung unserer Dienste ist nicht von der Akzeptanz des Trackings abhängig, sodass die Nutzung auch nach der Ausübung des Widerspruchs uneingeschränkt möglich bleibt.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Details zur Erhebung, Verarbeitung und Nutzung personenbezogener Daten im Zusammenhang mit der Nutzung von „Firebase Analytics“ sind in der Datenschutzerklärung der Anbieterin geregelt die innerhalb der App abrufbar ist.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "7. Pflichten des Nutzers",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Nutzer ist verpflichtet, die App gemäß diesen AGB und den geltenden Gesetzen zu nutzen. Dies beinhaltet insbesondere:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "ordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Kompatibles Endgerät und Internetverbindung",
+                    "type": "text"
+                  },
+                  {
+                    "text": ": Der Nutzer ist für die Bereitstellung eines kompatiblen Endgeräts und einer stabilen Internetverbindung verantwortlich.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "App Store Account",
+                    "type": "text"
+                  },
+                  {
+                    "text": ": Für die Nutzung der App ist ein gültiger Account in den App Stores von Apple oder Google erforderlich.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Wahrheitsgemäße Angaben",
+                    "type": "text"
+                  },
+                  {
+                    "text": ": Der Nutzer ist verpflichtet, bei der Registrierung und Nutzung der App wahrheitsgemäße Angaben zu machen.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Vertraulichkeit der Zugangsdaten",
+                    "type": "text"
+                  },
+                  {
+                    "text": ": Der Nutzer ist für die Geheimhaltung seiner Zugangsdaten verantwortlich und hat diese vor dem Zugriff Dritter zu schützen.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Einhaltung der Nutzungsbedingungen der App Stores",
+                    "type": "text"
+                  },
+                  {
+                    "text": ": Der Nutzer ist verpflichtet, die Nutzungsbedingungen der jeweiligen App Stores einzuhalten.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "8. Haftung",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die Anbieterin haftet nach den gesetzlichen Bestimmungen für Schäden, die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung der Anbieterin, ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen. Für leichte Fahrlässigkeit haftet die Anbieterin nur bei Verletzung einer wesentlichen Vertragspflicht (Kardinalpflicht), deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung der Nutzer regelmäßig vertrauen darf, sowie bei Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit. Im Falle der Verletzung einer Kardinalpflicht ist die Haftung der Anbieterin auf den vertragstypischen, vorhersehbaren Schaden begrenzt.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 6,
+            "children": [
+              {
+                "text": "Besondere Haftungsregelungen zum Schutz der Anbieterin:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "ordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Haftungsausschluss für AI-generierte Inhalte",
+                    "type": "text"
+                  },
+                  {
+                    "text": ": Die Anbieterin übernimmt keine Haftung für die Richtigkeit, Vollständigkeit oder Aktualität der von den AI-Services generierten Vorschläge oder Analysen. Diese dienen lediglich als Unterstützung und ersetzen nicht die eigenverantwortliche Entscheidungsfindung des Nutzers. Der Nutzer ist allein verantwortlich für die Überprüfung und Nutzung der AI-generierten Inhalte.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Keine Haftung für Datenverlust durch Nutzerfehler",
+                    "type": "text"
+                  },
+                  {
+                    "text": ": Die Anbieterin haftet nicht für Datenverluste, die auf Handlungen oder Unterlassungen des Nutzers zurückzuführen sind (z.B. versehentliches Löschen von Daten, unsachgemäße Nutzung der App). Die Anbieterin ergreift ihrerseits angemessene technische und organisatorische Maßnahmen zum Schutz der Nutzerdaten.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Haftungsbegrenzung bei Drittanbieter-Services",
+                    "type": "text"
+                  },
+                  {
+                    "text": ": Soweit die App auf Dienste Dritter (z.B. AI-Dienstleister, App Stores) zurückgreift, übernimmt die Anbieterin keine Haftung für deren Leistungen oder etwaige Ausfälle. Es gelten die jeweiligen Geschäftsbedingungen der Drittanbieter. Die Anbieterin ist lediglich für die ordnungsgemäße Einbindung dieser Dienste in die App verantwortlich.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Keine Haftung für Kompatibilitätsprobleme",
+                    "type": "text"
+                  },
+                  {
+                    "text": ": Die Anbieterin übernimmt keine Gewähr für die Kompatibilität der App mit allen Endgeräten oder Betriebssystemversionen. Der Nutzer ist für die Überprüfung der Kompatibilität selbst verantwortlich. Mindestanforderungen an Hardware und Software werden in den App-Beschreibungen oder FAQs kommuniziert.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "9. Datenschutz",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die Anbieterin erhebt, verarbeitet und nutzt personenbezogene Daten des Nutzers ausschließlich gemäß den Bestimmungen der Datenschutz-Grundverordnung (DSGVO) und den einschlägigen nationalen Datenschutzgesetzen. Details zur Erhebung, Verarbeitung und Nutzung personenbezogener Daten, einschließlich der Datenverarbeitung durch angebundene AI-Dienstleister und der Übermittlung von Daten an diese, sind in der gesonderten Datenschutzerklärung der Anbieterin geregelt, die auf der Website der Anbieterin und innerhalb der App abrufbar ist. Die Anbieterin hat mit allen angebundenen AI-Dienstleistern, die personenbezogene Daten im Auftrag der Anbieterin verarbeiten, entsprechende Auftragsverarbeitungsverträge (AVV) gemäß Art. 28 DSGVO abgeschlossen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "10. Änderungen der AGB",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die Anbieterin behält sich das Recht vor, diese AGB jederzeit mit Wirkung für die Zukunft zu ändern. Über Änderungen wird der Nutzer rechtzeitig vor deren Inkrafttreten per E-Mail oder durch eine Benachrichtigung innerhalb der App informiert. Widerspricht der Nutzer den Änderungen nicht innerhalb einer Frist von vier Wochen nach Zugang der Benachrichtigung, gelten die geänderten AGB als angenommen. Auf das Widerspruchsrecht und die Folgen eines unterlassenen Widerspruchs wird die Anbieterin den Nutzer in der Benachrichtigung gesondert hinweisen. Bei wesentlichen Änderungen, die den Vertragsgegenstand oder die Hauptleistungspflichten betreffen, wird die Anbieterin eine aktive Zustimmung des Nutzers einholen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "11. Schlussbestimmungen",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Sofern der Nutzer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag der Sitz der Anbieterin. Für Verbraucher gilt der gesetzliche Gerichtsstand ihres Wohnsitzes.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sollten einzelne Bestimmungen dieser AGB ganz oder teilweise unwirksam sein oder werden, so wird hierdurch die Gültigkeit der übrigen Bestimmungen nicht berührt. Die ganz oder teilweise unwirksame Regelung wird durch eine Regelung ersetzt, deren wirtschaftlicher Erfolg dem der unwirksamen Regelung am nächsten kommt. Entsprechendes gilt für Regelungslücken.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Online-Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die Anbieterin ist weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "createdAt": "2025-10-28T12:31:31.331Z",
+        "updatedAt": "2025-11-06T09:58:52.930Z",
+        "publishedAt": null,
+        "locale": "en"
+      }
+    ]
+  },
+  "meta": {}
+}

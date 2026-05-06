@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "mfx9h9k7p9xmlucct6j6utx1",
+    "headline": "DEINE BESTE ENTSCHEIDUNG BIS JETZT﻿",
+    "createdAt": "2025-10-20T13:59:56.662Z",
+    "updatedAt": "2025-11-15T18:43:32.589Z",
+    "publishedAt": null,
+    "locale": "de",
+    "text": "Vielen Dank, dass Du Dich entschieden hast, RAISE-Tester zu werden.  Innerhalb der nächsten 48h erhältst Du eine E-Mail von uns mit allen Informationen, die Du brauchst, um Raise zu testen.",
+    "localizations": [
+      {
+        "id": 2,
+        "documentId": "mfx9h9k7p9xmlucct6j6utx1",
+        "headline": "YOUR BEST DECISION SO FAR",
+        "createdAt": "2025-10-31T13:37:05.296Z",
+        "updatedAt": "2025-11-15T18:43:29.772Z",
+        "publishedAt": null,
+        "locale": "en",
+        "text": "Thank you for deciding to become a RAISE tester. Within the next 48 hours, you will receive an email from us with all the information you need to test Raise."
+      }
+    ]
+  },
+  "meta": {}
+}

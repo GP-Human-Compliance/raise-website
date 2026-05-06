@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AppIcon (dark)</title>
+    <defs>
+        <radialGradient cx="110.281524%" cy="2.6756194%" fx="110.281524%" fy="2.6756194%" r="132.91452%" id="radialGradient-1">
+            <stop stop-color="#536F6B" offset="0%"></stop>
+            <stop stop-color="#234E5D" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AppIcon-(dark)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="url(#radialGradient-1)" x="0" y="0" width="300" height="300" rx="70.5400009"></rect>
+            <circle id="Oval" fill="#FDF5F6" cx="111.702023" cy="155.457131" r="19.2691138"></circle>
+            <circle id="Oval" fill="#FDF5F6" cx="150.3187" cy="155.457131" r="19.2691138"></circle>
+            <circle id="Oval" fill="#FDF5F6" cx="188.925571" cy="155.457131" r="19.2691138"></circle>
+            <circle id="Oval" fill="#FDF5F6" cx="227.542248" cy="155.457131" r="19.2691138"></circle>
+            <circle id="Oval" fill="#FDF5F6" cx="54.4634393" cy="144.562482" r="19.2691138"></circle>
+        </g>
+    </g>
+</svg>

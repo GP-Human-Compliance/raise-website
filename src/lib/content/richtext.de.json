@@ -1,0 +1,29 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "of9459cw6yfpot1sjy1cf67o",
+    "createdAt": "2025-10-08T18:57:46.025Z",
+    "updatedAt": "2025-11-05T13:45:02.786Z",
+    "publishedAt": null,
+    "locale": "de",
+    "subtext": " <p>\nEgal ob Karriere, Beziehung, Investments, der nächste Urlaub, oder einfach nur eine neue Serie <br>  zum „Bingen\" – mit RAISE trittst Du allen Entscheidungen entspannt gegenüber.\n</p>",
+    "headline_top": "Von “Was Jetzt?”",
+    "headline_bottom": "Zu “Was gibt's zum Abendessen?”",
+    "animatedText": "Werde RAISE-Tester, teile Dein Feedback und hilf uns dabei, bessere Entscheidungen für alle zu ermöglichen.",
+    "localizations": [
+      {
+        "id": 2,
+        "documentId": "of9459cw6yfpot1sjy1cf67o",
+        "createdAt": "2025-10-08T18:58:05.504Z",
+        "updatedAt": "2025-11-05T13:45:00.393Z",
+        "publishedAt": null,
+        "locale": "en",
+        "subtext": "From career to relationships to\ninvestments, holidays, or even what\nseries to binge next – <br/> it’s time to RAISE your decision making.",
+        "headline_top": "From “What’s next?”",
+        "headline_bottom": "to “What’s for dinner?”",
+        "animatedText": "Become a RAISE tester now, share your feedback, and help us enable better decision-making\nfor everyone."
+      }
+    ]
+  },
+  "meta": {}
+}

@@ -1,0 +1,124 @@
+{
+  "data": {
+    "id": 2,
+    "documentId": "pq6ya3538n52a2mdo488w4ok",
+    "createdAt": "2025-11-03T10:52:16.535Z",
+    "updatedAt": "2025-11-05T13:44:47.121Z",
+    "publishedAt": null,
+    "locale": "en",
+    "buttonAnimation": {
+      "id": 36,
+      "documentId": "mlfa3xsa7mttsb8q5op7unca",
+      "url": "/strapi-media/uploads/Test_Now_Button_86d31a6988.riv"
+    },
+    "line_1": {
+      "id": 2,
+      "documentId": "c1sojpgj2tdaz5bw5dh8ask5",
+      "createdAt": "2025-10-08T13:33:03.660Z",
+      "updatedAt": "2025-11-05T13:43:02.350Z",
+      "publishedAt": null,
+      "locale": "en",
+      "image": [
+        {
+          "id": 84,
+          "documentId": "alu5d7zbljavou0nr7asprpj",
+          "url": "/strapi-media/uploads/Karte_06_EN_d6b9851ab9.png",
+          "name": "Karte_06_EN.png"
+        },
+        {
+          "id": 82,
+          "documentId": "trf5eofoap4bh0mln7zx2b15",
+          "url": "/strapi-media/uploads/Karte_07_EN_bed6fad011.png",
+          "name": "Karte_07_EN.png"
+        },
+        {
+          "id": 85,
+          "documentId": "i3v3hjoqa7x3a4btnawinv5l",
+          "url": "/strapi-media/uploads/Karte_08_EN_9c7d401d0b.png",
+          "name": "Karte_08_EN.png"
+        },
+        {
+          "id": 89,
+          "documentId": "noc1qkdcwi4hykzac7uuug84",
+          "url": "/strapi-media/uploads/Karte_09_EN_18cf23a7ed.png",
+          "name": "Karte_09_EN.png"
+        }
+      ]
+    },
+    "line_2": {
+      "id": 4,
+      "documentId": "akfu8lqo3qr01yebeqf5se9j",
+      "createdAt": "2025-10-08T13:38:41.959Z",
+      "updatedAt": "2025-11-05T13:43:11.581Z",
+      "publishedAt": null,
+      "locale": "en",
+      "image": [
+        {
+          "id": 93,
+          "documentId": "r06qrj1l6ikdz2pxb90ix1xt",
+          "url": "/strapi-media/uploads/Karte_01_EN_b9698e08ae.png",
+          "name": "Karte_01_EN.png"
+        },
+        {
+          "id": 92,
+          "documentId": "jjlglhjvswallabfezdr7kzm",
+          "url": "/strapi-media/uploads/Karte_02_EN_d30db77c82.png",
+          "name": "Karte_02_EN.png"
+        },
+        {
+          "id": 83,
+          "documentId": "ymj1lnbbgk39w51puuxtku2i",
+          "url": "/strapi-media/uploads/Karte_03_EN_89572a26e8.png",
+          "name": "Karte_03_EN.png"
+        },
+        {
+          "id": 81,
+          "documentId": "vgnwxkhwqs25i90ubix49lgk",
+          "url": "/strapi-media/uploads/Karte_04_EN_29a1f581fb.png",
+          "name": "Karte_04_EN.png"
+        },
+        {
+          "id": 87,
+          "documentId": "luwbrnysg1cmx0kzuttsqp7d",
+          "url": "/strapi-media/uploads/Karte_05_EN_5f9641075f.png",
+          "name": "Karte_05_EN.png"
+        }
+      ]
+    },
+    "line_3": {
+      "id": 6,
+      "documentId": "x8mzsm1keq37sqp1qrftzxpv",
+      "createdAt": "2025-10-08T14:49:09.783Z",
+      "updatedAt": "2025-11-05T13:43:15.279Z",
+      "publishedAt": null,
+      "locale": "en",
+      "image": [
+        {
+          "id": 86,
+          "documentId": "wohxs4mufxiixsg7zekj5q9d",
+          "url": "/strapi-media/uploads/Karte_10_EN_a5347d391f.png",
+          "name": "Karte_10_EN.png"
+        },
+        {
+          "id": 91,
+          "documentId": "mcsv10v5q1gu8z56aty0i44q",
+          "url": "/strapi-media/uploads/Karte_11_EN_59dde68890.png",
+          "name": "Karte_11_EN.png"
+        },
+        {
+          "id": 90,
+          "documentId": "pjm6d6lweg14087r28ml84qz",
+          "url": "/strapi-media/uploads/Karte_12_EN_78a4022dd5.png",
+          "name": "Karte_12_EN.png"
+        },
+        {
+          "id": 88,
+          "documentId": "cr8jazj6zzs2tlgn3wqcoodx",
+          "url": "/strapi-media/uploads/Karte_13_EN_2b665faec8.png",
+          "name": "Karte_13_EN.png"
+        }
+      ]
+    }
+  },
+  "meta": {}
+}

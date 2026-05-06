@@ -1,0 +1,48 @@
+/* Root Styling */
+@import "./typography.css";
+@import "./tailwind.css";
+@import "./daisyui.css";
+
+/* Custom Styling */
+@import "./custom/animation.css";
+@import "./custom/components.css";
+@import "./custom/layout.css";
+
+/* Plugin Overriding */
+@import "./custom/plugins.css";
+
+/* Pages */
+@import "./custom/landing.css";
+
+/* Marquee Animation */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(calc(-100% - var(--gap))); }
+}
+
+@keyframes marquee-reverse {
+  from { transform: translateX(calc(-100% - var(--gap))); }
+  to { transform: translateX(0); }
+}
+
+@keyframes marquee-vertical {
+  from { transform: translateY(0); }
+  to { transform: translateY(calc(-100% - var(--gap))); }
+}
+
+.animate-marquee {
+  animation: marquee var(--duration) linear infinite;
+}
+
+.animate-marquee-reverse {
+  animation: marquee-reverse var(--duration) linear infinite;
+}
+
+.animate-marquee-vertical {
+  animation: marquee-vertical var(--duration) linear infinite;
+}
+
+/* Plugin: Iconify (Lucide icons) */
+@plugin "@iconify/tailwind4" {
+    prefixes: lucide;
+}

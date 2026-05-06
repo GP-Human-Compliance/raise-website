@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": 3,
+    "documentId": "haodap9xnklvnpi3rdlaczp8",
+    "createdAt": "2025-10-01T13:59:32.642Z",
+    "updatedAt": "2025-11-05T13:45:43.996Z",
+    "publishedAt": null,
+    "locale": "en",
+    "headline": "Decision making made easy.",
+    "subheadline": "Find out how.",
+    "localizations": [
+      {
+        "id": 1,
+        "documentId": "haodap9xnklvnpi3rdlaczp8",
+        "createdAt": "2025-10-01T13:21:27.952Z",
+        "updatedAt": "2025-10-01T13:21:27.952Z",
+        "publishedAt": null,
+        "locale": "de",
+        "headline": "Entscheiden geht auch einfach!",
+        "subheadline": "Finde heraus wie..."
+      }
+    ]
+  },
+  "meta": {}
+}

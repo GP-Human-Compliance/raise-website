@@ -1,0 +1,32 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "q6xj2pndzws2yuprdy8tmhg4",
+    "Alttext": "Logo",
+    "createdAt": "2025-09-30T15:00:43.758Z",
+    "updatedAt": "2025-11-05T13:45:27.494Z",
+    "publishedAt": null,
+    "LogoUrl": {
+      "id": 16,
+      "documentId": "nqy6boedkaa2ozurwnu6o3fw",
+      "name": "raise_logo_hor.svg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 132,
+      "height": 40,
+      "formats": {},
+      "hash": "raise_logo_hor_e663ee54ea",
+      "ext": ".svg",
+      "mime": "image/svg+xml",
+      "size": 3.73,
+      "url": "/strapi-media/uploads/raise_logo_hor_e663ee54ea.svg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-10-09T09:44:18.188Z",
+      "updatedAt": "2025-10-30T07:48:12.211Z",
+      "publishedAt": "2025-10-09T09:44:18.188Z"
+    }
+  },
+  "meta": {}
+}

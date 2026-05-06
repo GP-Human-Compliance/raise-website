@@ -1,0 +1,55 @@
+{
+    "name": "raise-website",
+    "description": "raise — yours to decide. Static landing site.",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "homepage": "https://www.raise-app.de",
+    "scripts": {
+        "dev": "svelte-kit sync && vite",
+        "build": "svelte-kit sync && vite build && cp build/index.html build/404.html",
+        "preview": "vite preview",
+        "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+        "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+        "lint": "prettier --check . && eslint .",
+        "format": "prettier --write .",
+        "refresh-content": "node scripts/snapshot-strapi.mjs"
+    },
+    "engines": {
+        "node": ">=18.18.0"
+    },
+    "devDependencies": {
+        "@eslint/compat": "^1.2.8",
+        "@eslint/js": "^9.25.0",
+        "@iconify-json/lucide": "^1.2.37",
+        "@iconify/tailwind4": "^1.0.6",
+        "@sveltejs/adapter-static": "^3.0.8",
+        "@sveltejs/kit": "^2.20.7",
+        "@sveltejs/vite-plugin-svelte": "^5.0.3",
+        "@tailwindcss/vite": "^4.1.4",
+        "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+        "autoprefixer": "^10.4.21",
+        "daisyui": "^5.0.27",
+        "eslint": "^9.25.0",
+        "eslint-config-prettier": "^10.1.2",
+        "eslint-plugin-svelte": "^3.5.1",
+        "globals": "^16.0.0",
+        "prettier": "^3.5.3",
+        "prettier-plugin-svelte": "^3.3.3",
+        "prettier-plugin-tailwindcss": "^0.6.11",
+        "svelte": "^5.28.1",
+        "svelte-check": "^4.1.6",
+        "tailwindcss": "^4.1.4",
+        "typescript": "^5.8.3",
+        "typescript-eslint": "^8.30.1",
+        "vite": "6.3.2"
+    },
+    "dependencies": {
+        "@rive-app/canvas": "^2.31.6",
+        "blocks-svelte-renderer": "^1.0.1",
+        "clsx": "^2.1.1",
+        "svelte-inview": "^4.0.4",
+        "swiper": "^11.2.6",
+        "tailwind-merge": "^3.3.1"
+    }
+}

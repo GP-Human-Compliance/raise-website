@@ -1,0 +1,97 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "qh6o3yiguzvasay0n1xo1vec",
+    "headlineCited": " N. Bonaparte ",
+    "subText": "RAISE ist hier um all das zu ändern.\nMit einem KI-gestützten und wissenschaftlich\nfundierten Prozess, der Klarheit in das\nEntscheidungschaos und Kopf und Bauch in\nEinklang bringt.",
+    "createdAt": "2025-10-24T14:07:04.018Z",
+    "updatedAt": "2025-11-05T13:46:12.378Z",
+    "publishedAt": null,
+    "locale": "de",
+    "headLineQuote": "“Nichts ist schwieriger,<br />\nund daher wertvoller,<br />\nals die Fähigkeit, Entscheidungen zu treffen.”<br />",
+    "teaserImage": {
+      "id": 24,
+      "documentId": "mwfdwhf7p866o3e2y6w4ybrt",
+      "name": "Napoleon_IMAGE.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1792,
+      "height": 1524,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/strapi-media/uploads/large_Napoleon_IMAGE_246f5e003b.png",
+          "hash": "large_Napoleon_IMAGE_246f5e003b",
+          "mime": "image/png",
+          "name": "large_Napoleon_IMAGE.png",
+          "path": null,
+          "size": 1358.57,
+          "width": 1000,
+          "height": 850,
+          "sizeInBytes": 1358572
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/strapi-media/uploads/small_Napoleon_IMAGE_246f5e003b.png",
+          "hash": "small_Napoleon_IMAGE_246f5e003b",
+          "mime": "image/png",
+          "name": "small_Napoleon_IMAGE.png",
+          "path": null,
+          "size": 346.96,
+          "width": 500,
+          "height": 425,
+          "sizeInBytes": 346961
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/strapi-media/uploads/medium_Napoleon_IMAGE_246f5e003b.png",
+          "hash": "medium_Napoleon_IMAGE_246f5e003b",
+          "mime": "image/png",
+          "name": "medium_Napoleon_IMAGE.png",
+          "path": null,
+          "size": 751.67,
+          "width": 750,
+          "height": 638,
+          "sizeInBytes": 751668
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/strapi-media/uploads/thumbnail_Napoleon_IMAGE_246f5e003b.png",
+          "hash": "thumbnail_Napoleon_IMAGE_246f5e003b",
+          "mime": "image/png",
+          "name": "thumbnail_Napoleon_IMAGE.png",
+          "path": null,
+          "size": 64.08,
+          "width": 183,
+          "height": 156,
+          "sizeInBytes": 64082
+        }
+      },
+      "hash": "Napoleon_IMAGE_246f5e003b",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 735.24,
+      "url": "/strapi-media/uploads/Napoleon_IMAGE_246f5e003b.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-10-27T12:45:18.314Z",
+      "updatedAt": "2025-10-31T10:16:54.682Z",
+      "publishedAt": "2025-10-27T12:45:18.314Z"
+    },
+    "localizations": [
+      {
+        "id": 2,
+        "documentId": "qh6o3yiguzvasay0n1xo1vec",
+        "headlineCited": " N. Bonaparte ",
+        "subText": "RAISE is here to change that. With an AI-supported and science-based process that helps you cut through the noise, balance head and gut, and make decisions you can feel truly confident about. ",
+        "createdAt": "2025-10-31T10:16:03.843Z",
+        "updatedAt": "2025-11-05T13:46:10.459Z",
+        "publishedAt": null,
+        "locale": "en",
+        "headLineQuote": "“Nothing is more difficult,<br />\n and therefore more precious, than<br />\n to be able to decide.”<br /> "
+      }
+    ]
+  },
+  "meta": {}
+}

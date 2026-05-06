@@ -1,0 +1,32 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "jin6upvff3renwix4x489zqf",
+    "createdAt": "2025-11-06T14:20:58.827Z",
+    "updatedAt": "2025-11-14T11:58:26.675Z",
+    "publishedAt": null,
+    "insertAfterHeadStart": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "<meta property=\"og:title\" content=\"raise - yours to decide\" />\n<meta property=\"og:site_name\" content=\"raise - yours to decide\" />\n<meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:image\" content=\"https://raise-strapi.prod.bitingbit.cloud/uploads/Link_Header_e534bfb605.png\" />\n<meta property=\"og:description\" content=\"Find out how raise combines AI and the science of decision-making to empower better outcomes\" />\n<meta property=\"og:url\" content=\"https://www.raise-app.de\" />",
+            "type": "text"
+          }
+        ]
+      }
+    ],
+    "insertBeforeHeadEnd": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {}
+}

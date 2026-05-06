@@ -1,0 +1,150 @@
+{
+  "data": {
+    "id": 2,
+    "documentId": "oyxkmpzjjny1h4126fhs11tg",
+    "headline": "BECOME A TESTER NOW!",
+    "newsletter_text": "SUBSCRIBE TO NEWSLETTER",
+    "newsletter_subtext": "Yours to subscribe",
+    "createdAt": "2025-10-28T08:47:38.036Z",
+    "updatedAt": "2025-11-05T13:45:57.601Z",
+    "publishedAt": null,
+    "locale": "en",
+    "subheadline": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "A DECISION YOU WON'T REGRET.",
+            "type": "text"
+          }
+        ]
+      }
+    ],
+    "placeholder_ios": "Your Apple-Account",
+    "placeholder_android": "Your Google-Account",
+    "termsAndConditionsText": "by submitting you accept our <a id=\"terms-link\">Terms</a>,  <a id=\"privacy-link\">Data Privacy Policy</a> and <a id=\"beta-link\">Beta Testing Conditions</a>",
+    "tooltipApple": "Please use the email address that you also use for your Apple-ID account.",
+    "tooltipGoogle": "Please use the email address that you also use for your Google account.",
+    "logo_apple": {
+      "id": 4,
+      "documentId": "el2xsbf75sga52du5cgldw4q",
+      "name": "App_Store_(iOS).svg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 800,
+      "height": 800,
+      "formats": null,
+      "hash": "App_Store_i_OS_8fa7e960ce",
+      "ext": ".svg",
+      "mime": "image/svg+xml",
+      "size": 1.49,
+      "url": "/strapi-media/uploads/App_Store_i_OS_8fa7e960ce.svg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-10-06T03:36:11.164Z",
+      "updatedAt": "2025-10-06T03:36:11.164Z",
+      "publishedAt": "2025-10-06T03:36:11.165Z"
+    },
+    "logo_android": {
+      "id": 5,
+      "documentId": "eugjr7sokjz3axg1mq09v3lx",
+      "name": "google-play-store-logo-png-transparent.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 2400,
+      "height": 2746,
+      "formats": {
+        "large": {
+          "ext": ".png",
+          "url": "/strapi-media/uploads/large_google_play_store_logo_png_transparent_a693658d89.png",
+          "hash": "large_google_play_store_logo_png_transparent_a693658d89",
+          "mime": "image/png",
+          "name": "large_google-play-store-logo-png-transparent.png",
+          "path": null,
+          "size": 145.48,
+          "width": 874,
+          "height": 1000,
+          "sizeInBytes": 145477
+        },
+        "small": {
+          "ext": ".png",
+          "url": "/strapi-media/uploads/small_google_play_store_logo_png_transparent_a693658d89.png",
+          "hash": "small_google_play_store_logo_png_transparent_a693658d89",
+          "mime": "image/png",
+          "name": "small_google-play-store-logo-png-transparent.png",
+          "path": null,
+          "size": 44.79,
+          "width": 437,
+          "height": 500,
+          "sizeInBytes": 44788
+        },
+        "medium": {
+          "ext": ".png",
+          "url": "/strapi-media/uploads/medium_google_play_store_logo_png_transparent_a693658d89.png",
+          "hash": "medium_google_play_store_logo_png_transparent_a693658d89",
+          "mime": "image/png",
+          "name": "medium_google-play-store-logo-png-transparent.png",
+          "path": null,
+          "size": 82.19,
+          "width": 655,
+          "height": 750,
+          "sizeInBytes": 82194
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/strapi-media/uploads/thumbnail_google_play_store_logo_png_transparent_a693658d89.png",
+          "hash": "thumbnail_google_play_store_logo_png_transparent_a693658d89",
+          "mime": "image/png",
+          "name": "thumbnail_google-play-store-logo-png-transparent.png",
+          "path": null,
+          "size": 9.21,
+          "width": 136,
+          "height": 156,
+          "sizeInBytes": 9209
+        }
+      },
+      "hash": "google_play_store_logo_png_transparent_a693658d89",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 227.14,
+      "url": "/strapi-media/uploads/google_play_store_logo_png_transparent_a693658d89.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-10-06T03:36:12.784Z",
+      "updatedAt": "2025-10-06T03:36:12.784Z",
+      "publishedAt": "2025-10-06T03:36:12.785Z"
+    },
+    "localizations": [
+      {
+        "id": 1,
+        "documentId": "oyxkmpzjjny1h4126fhs11tg",
+        "headline": "JETZT TESTER WERDEN!﻿",
+        "newsletter_text": "NEWSLETTER ABONNIEREN﻿",
+        "newsletter_subtext": "Yours to subscribe",
+        "createdAt": "2025-10-02T08:16:34.653Z",
+        "updatedAt": "2025-11-05T13:46:00.018Z",
+        "publishedAt": null,
+        "locale": "de",
+        "subheadline": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "EINE ENTSCHEIDUNG, DIE DU NICHT BEREUEN WIRST.﻿",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "placeholder_ios": "Dein Apple-Account",
+        "placeholder_android": "Dein Google-Account",
+        "termsAndConditionsText": "Mit Eintragung Deiner E-Mail-Adresse akzeptierst Du unsere <a id=\"terms-link\">AGBs</a>,  <a id=\"privacy-link\">Datenschutzerklärung</a> und <a id=\"beta-link\">Beta-Test-Vereinbarungen</a>",
+        "tooltipApple": "Bitte verwende die E-Mailadresse, die du auch für deine Apple-ID nutzt.",
+        "tooltipGoogle": "Bitte verwende die E-Mailadresse, die du auch für dein Google-Konto nutzt."
+      }
+    ]
+  },
+  "meta": {}
+}

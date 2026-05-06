@@ -1,0 +1,54 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "r7ea0nltyzih6hghjwfr7324",
+    "slogan": "yours to decide",
+    "legalLinkText": "AGBs",
+    "imprintLinkText": "Impressum",
+    "privacyLinkText": "Datenschutz",
+    "betaLinkText": "Beta-Vereinbarung",
+    "createdAt": "2025-10-27T09:31:28.430Z",
+    "updatedAt": "2025-11-05T13:45:06.094Z",
+    "publishedAt": null,
+    "locale": "de",
+    "logoAlt": null,
+    "logo": {
+      "id": 15,
+      "documentId": "pwvhaktr6dt9o3swktqlcozp",
+      "name": "raise_logo_vert.svg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 120,
+      "height": 170,
+      "formats": null,
+      "hash": "raise_logo_vert_1211896771",
+      "ext": ".svg",
+      "mime": "image/svg+xml",
+      "size": 3.74,
+      "url": "/strapi-media/uploads/raise_logo_vert_1211896771.svg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-10-09T09:44:18.187Z",
+      "updatedAt": "2025-10-09T09:44:18.187Z",
+      "publishedAt": "2025-10-09T09:44:18.187Z"
+    },
+    "localizations": [
+      {
+        "id": 2,
+        "documentId": "r7ea0nltyzih6hghjwfr7324",
+        "slogan": "yours to decide",
+        "legalLinkText": "Terms",
+        "imprintLinkText": "Imprint",
+        "privacyLinkText": "Data Privacy",
+        "betaLinkText": "Beta License",
+        "createdAt": "2025-10-28T08:51:08.632Z",
+        "updatedAt": "2025-11-05T13:45:08.179Z",
+        "publishedAt": null,
+        "locale": "en",
+        "logoAlt": null
+      }
+    ]
+  },
+  "meta": {}
+}

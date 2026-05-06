@@ -1,0 +1,963 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "axy6ig8qhzscz5z2nbuwyx85",
+    "title": "Teilnahmebedingungen für den Beta-Test",
+    "content": [
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Präambel",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Diese Teilnahmebedingungen (im Folgenden „Bedingungen“) regeln die Teilnahme an dem Beta-Test für die App \"raise\" (im Folgenden „Beta-Produkt“) der GP Human Compliance GmbH, Im Altenschemel 52, D-67435 Neustadt an der Weinstraße (im Folgenden „Anbieter“). Diese Bedingungen ergänzen die Allgemeinen Geschäftsbedingungen (AGB) und die Datenschutzerklärung des Anbieters, die in ihrer jeweils gültigen Fassung Anwendung finden. Im Falle von Widersprüchen zwischen diesen Bedingungen und den AGB oder der Datenschutzerklärung haben diese Bedingungen Vorrang, soweit sie spezifische Aspekte des Beta-Tests betreffen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "1. Zweck des Beta-Tests",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Beta-Test dient ausschließlich der Erprobung und Evaluierung des Beta-Produkts vor dessen offizieller Veröffentlichung. Ziel ist es, Fehler, Schwachstellen und Verbesserungspotenziale zu identifizieren, um die Qualität und Benutzerfreundlichkeit des Beta-Produkts zu optimieren. Die Teilnahme am Beta-Test ist freiwillig und erfolgt unentgeltlich, sofern nicht anders vereinbart.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "2. Teilnahmeberechtigung und Anmeldung",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Teilnahmeberechtigt sind natürliche Personen, die das Mindestalter von 18 Jahren vollendet haben und sich erfolgreich für den Beta-Test angemeldet haben. Der Anbieter behält sich das Recht vor, Anmeldungen ohne Angabe von Gründen abzulehnen oder die Anzahl der Teilnehmer zu begrenzen. Mit der Anmeldung und Teilnahme am Beta-Test erklären sich die Teilnehmer mit diesen Bedingungen einverstanden.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "3. Zeitraum des Beta-Tests",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Beta-Test beginnt am 07.11.2025 und endet voraussichtlich am 31.12.2025. Der Anbieter behält sich das Recht vor, den Beta-Test jederzeit ohne Angabe von Gründen zu verlängern, zu verkürzen oder vorzeitig zu beenden.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "4. Bereitstellung des Beta-Produkts",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Anbieter stellt den Teilnehmern das Beta-Produkt für die Dauer des Beta-Tests zur Verfügung. Das Beta-Produkt wird „wie besehen“ und „wie verfügbar“ bereitgestellt. Es wird ausdrücklich darauf hingewiesen, dass das Beta-Produkt Fehler, Mängel oder Instabilitäten aufweisen kann und nicht für den produktiven Einsatz geeignet ist.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "5. Rechte und Pflichten des Teilnehmers",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 6,
+        "children": [
+          {
+            "text": "5.1. Nutzungszweck",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Teilnehmer darf das Beta-Produkt ausschließlich zu Testzwecken nutzen. Eine Nutzung für kommerzielle Zwecke oder andere als die Testzwecke ist untersagt.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 6,
+        "children": [
+          {
+            "text": "5.2. Feedback und Berichterstattung",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Teilnehmer verpflichtet sich, dem Anbieter während des Beta-Tests aktiv Feedback zu geben und auftretende Fehler, Probleme, Abstürze oder Verbesserungsvorschläge unverzüglich über die vom Anbieter bereitgestellten Kanäle (Feedback-Formular / E-Mail) zu melden. Das Feedback sollte so detailliert wie möglich sein, um dem Anbieter eine schnelle Analyse und Behebung zu ermöglichen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Neben der aktiven Mitteilung von Feedback stellt der Anbieter dem Teilnehmer auch einen Feedback-Fragebogen zur Verfügung mit dem Ziel zusätzlich über Schwachstellen und Verbesserungspotentiale informiert zu werden und mithin die Qualität und Benutzerfreundlichkeit des Produkts optimieren zu können. Die Teilnahme mittels des Fragebogens ist freiwillig. Der Anbieter behält sich das Recht vor, den Teilnehmer an diesem Feedback-Fragebogen im Nachgang telefonisch oder per E-Mail zu kontaktieren, um die Verbesserungswünsche noch genauer besprechen zu können. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 6,
+        "children": [
+          {
+            "text": "5.3. Geheimhaltung (Vertraulichkeit)",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Teilnehmer verpflichtet sich, alle Informationen über das Beta-Produkt, einschließlich, aber nicht beschränkt auf dessen Funktionen, Design, Leistung, Fehler, Dokumentation sowie alle sonstigen nicht öffentlich zugänglichen Informationen des Anbieters, streng vertraulich zu behandeln. Dies umfasst auch Screenshots, Videos oder andere Darstellungen des Beta-Produkts. Eine Weitergabe an Dritte oder eine Veröffentlichung in sozialen Medien, Foren oder anderen Plattformen ist ohne vorherige schriftliche Zustimmung des Anbieters untersagt. Diese Geheimhaltungsverpflichtung bleibt auch nach Beendigung der Teilnahme am Beta-Test oder des Beta-Tests selbst bestehen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 6,
+        "children": [
+          {
+            "text": "5.4. Keine Modifikation oder Reverse Engineering",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Teilnehmer ist nicht berechtigt, das Beta-Produkt zu modifizieren, zu disassemblieren, zu dekompilieren, Reverse Engineering zu betreiben oder auf andere Weise zu versuchen, den Quellcode oder die zugrunde liegende Struktur des Beta-Produkts zu ermitteln.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "6. Geistiges Eigentum",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Alle Rechte am Beta-Produkt, einschließlich, aber nicht beschränkt auf Urheberrechte, Patente, Markenrechte und Geschäftsgeheimnisse, verbleiben ausschließlich beim Anbieter. Der Teilnehmer erhält lediglich eine nicht-exklusive, nicht übertragbare, widerrufliche Lizenz zur Nutzung des Beta-Produkts für die Dauer und den Zweck des Beta-Tests. Sämtliches Feedback, Vorschläge, Ideen oder andere Informationen, die der Teilnehmer im Rahmen des Beta-Tests an den Anbieter übermittelt, gehen in das alleinige Eigentum des Anbieters über. Der Teilnehmer tritt hiermit alle Rechte an solchem Feedback an den Anbieter ab und verzichtet auf jegliche Ansprüche auf Vergütung oder Anerkennung in Bezug auf die Nutzung dieses Feedbacks durch den Anbieter.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "7. Datenschutz",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die Erhebung, Verarbeitung und Nutzung personenbezogener Daten der Teilnehmer erfolgt gemäß der Datenschutzerklärung des Anbieters und den anwendbaren Datenschutzgesetzen (insbesondere der Datenschutz-Grundverordnung – DSGVO). Der Teilnehmer wird darauf hingewiesen, dass im Rahmen des Beta-Tests Nutzungsdaten und Fehlerprotokolle erfasst werden können, um die Funktionalität und Stabilität des Beta-Produkts zu verbessern. Diese Daten werden pseudonymisiert oder anonymisiert, soweit dies technisch möglich und zum Testzweck ausreichend ist. Detaillierte Informationen zur Datenverarbeitung sind der Datenschutzerklärung des Anbieters zu entnehmen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "8. Haftungsausschluss",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Anbieter übernimmt keine Haftung für direkte oder indirekte Schäden, die dem Teilnehmer oder Dritten durch die Nutzung oder Nichtnutzung des Beta-Produkts entstehen, es sei denn, diese Schäden beruhen auf Vorsatz oder grober Fahrlässigkeit des Anbieters. Dies gilt insbesondere für Datenverlust, Systemausfälle oder Kompatibilitätsprobleme. Der Teilnehmer nutzt das Beta-Produkt auf eigenes Risiko. Der Anbieter gibt keine Zusicherungen oder Garantien hinsichtlich der Funktionalität, Zuverlässigkeit, Fehlerfreiheit oder Eignung des Beta-Produkts für einen bestimmten Zweck.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "9. Beendigung der Teilnahme",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Anbieter behält sich das Recht vor, die Teilnahme eines Teilnehmers am Beta-Test jederzeit und ohne Angabe von Gründen zu beenden oder den Zugang zum Beta-Produkt zu sperren, insbesondere bei Verstößen gegen diese Bedingungen. Der Teilnehmer kann seine Teilnahme am Beta-Test jederzeit durch E-Mail an den Support beenden. Mit Beendigung der Teilnahme erlöschen alle Rechte des Teilnehmers zur Nutzung des Beta-Produkts.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "10. Schlussbestimmungen",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "children": [
+          {
+            "text": "10.1. Anwendbares Recht und Gerichtsstand",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesen Bedingungen ist der Sitz des Anbieters, sofern der Teilnehmer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist oder keinen allgemeinen Gerichtsstand in Deutschland hat.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "children": [
+          {
+            "text": "10.2. Salvatorische Klausel",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Sollten einzelne Bestimmungen dieser Bedingungen ganz oder teilweise unwirksam sein oder werden, so wird die Gültigkeit der übrigen Bestimmungen dadurch nicht berührt. Die unwirksame Bestimmung ist durch eine wirksame Bestimmung zu ersetzen, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung am nächsten kommt.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "children": [
+          {
+            "text": "10.3. Änderungen der Bedingungen",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Anbieter behält sich das Recht vor, diese Bedingungen jederzeit zu ändern. Änderungen werden den Teilnehmern in geeigneter Weise mitgeteilt. Die fortgesetzte Nutzung des Beta-Produkts nach Inkrafttreten der Änderungen gilt als Zustimmung zu den geänderten Bedingungen.",
+            "type": "text"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-10-27T12:16:38.220Z",
+    "updatedAt": "2025-11-06T12:40:09.418Z",
+    "publishedAt": null,
+    "locale": "de",
+    "localizations": [
+      {
+        "id": 2,
+        "documentId": "axy6ig8qhzscz5z2nbuwyx85",
+        "title": "Beta Agreement",
+        "content": [
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Präambel",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Diese Teilnahmebedingungen (im Folgenden „Bedingungen“) regeln die Teilnahme an dem Beta-Test für die App \"raise\" (im Folgenden „Beta-Produkt“) der GP Human Compliance GmbH, Im Altenschemel 52, D-67435 Neustadt an der Weinstraße (im Folgenden „Anbieter“). Diese Bedingungen ergänzen die Allgemeinen Geschäftsbedingungen (AGB) und die Datenschutzerklärung des Anbieters, die in ihrer jeweils gültigen Fassung Anwendung finden. Im Falle von Widersprüchen zwischen diesen Bedingungen und den AGB oder der Datenschutzerklärung haben diese Bedingungen Vorrang, soweit sie spezifische Aspekte des Beta-Tests betreffen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "1. Zweck des Beta-Tests",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Beta-Test dient ausschließlich der Erprobung und Evaluierung des Beta-Produkts vor dessen offizieller Veröffentlichung. Ziel ist es, Fehler, Schwachstellen und Verbesserungspotenziale zu identifizieren, um die Qualität und Benutzerfreundlichkeit des Beta-Produkts zu optimieren. Die Teilnahme am Beta-Test ist freiwillig und erfolgt unentgeltlich, sofern nicht anders vereinbart.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "2. Teilnahmeberechtigung und Anmeldung",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Teilnahmeberechtigt sind natürliche Personen, die das Mindestalter von 18 Jahren vollendet haben und sich erfolgreich für den Beta-Test angemeldet haben. Der Anbieter behält sich das Recht vor, Anmeldungen ohne Angabe von Gründen abzulehnen oder die Anzahl der Teilnehmer zu begrenzen. Mit der Anmeldung und Teilnahme am Beta-Test erklären sich die Teilnehmer mit diesen Bedingungen einverstanden.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "3. Zeitraum des Beta-Tests",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Beta-Test beginnt am 07.11.2025 und endet voraussichtlich am 31.12.2025. Der Anbieter behält sich das Recht vor, den Beta-Test jederzeit ohne Angabe von Gründen zu verlängern, zu verkürzen oder vorzeitig zu beenden.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "4. Bereitstellung des Beta-Produkts",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Anbieter stellt den Teilnehmern das Beta-Produkt für die Dauer des Beta-Tests zur Verfügung. Das Beta-Produkt wird „wie besehen“ und „wie verfügbar“ bereitgestellt. Es wird ausdrücklich darauf hingewiesen, dass das Beta-Produkt Fehler, Mängel oder Instabilitäten aufweisen kann und nicht für den produktiven Einsatz geeignet ist.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "5. Rechte und Pflichten des Teilnehmers",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 6,
+            "children": [
+              {
+                "text": "5.1. Nutzungszweck",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Teilnehmer darf das Beta-Produkt ausschließlich zu Testzwecken nutzen. Eine Nutzung für kommerzielle Zwecke oder andere als die Testzwecke ist untersagt.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 6,
+            "children": [
+              {
+                "text": "5.2. Feedback und Berichterstattung",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Teilnehmer verpflichtet sich, dem Anbieter während des Beta-Tests aktiv Feedback zu geben und auftretende Fehler, Probleme, Abstürze oder Verbesserungsvorschläge unverzüglich über die vom Anbieter bereitgestellten Kanäle (Feedback-Formular / E-Mail) zu melden. Das Feedback sollte so detailliert wie möglich sein, um dem Anbieter eine schnelle Analyse und Behebung zu ermöglichen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Neben der aktiven Mitteilung von Feedback stellt der Anbieter dem Teilnehmer auch einen Feedback-Fragebogen zur Verfügung mit dem Ziel zusätzlich über Schwachstellen und Verbesserungspotentiale informiert zu werden und mithin die Qualität und Benutzerfreundlichkeit des Produkts optimieren zu können. Die Teilnahme mittels des Fragebogens ist freiwillig. Der Anbieter behält sich das Recht vor, den Teilnehmer an diesem Feedback-Fragebogen im Nachgang telefonisch oder per E-Mail zu kontaktieren, um die Verbesserungswünsche noch genauer besprechen zu können. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 6,
+            "children": [
+              {
+                "text": "5.3. Geheimhaltung (Vertraulichkeit)",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Teilnehmer verpflichtet sich, alle Informationen über das Beta-Produkt, einschließlich, aber nicht beschränkt auf dessen Funktionen, Design, Leistung, Fehler, Dokumentation sowie alle sonstigen nicht öffentlich zugänglichen Informationen des Anbieters, streng vertraulich zu behandeln. Dies umfasst auch Screenshots, Videos oder andere Darstellungen des Beta-Produkts. Eine Weitergabe an Dritte oder eine Veröffentlichung in sozialen Medien, Foren oder anderen Plattformen ist ohne vorherige schriftliche Zustimmung des Anbieters untersagt. Diese Geheimhaltungsverpflichtung bleibt auch nach Beendigung der Teilnahme am Beta-Test oder des Beta-Tests selbst bestehen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 6,
+            "children": [
+              {
+                "text": "5.4. Keine Modifikation oder Reverse Engineering",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Teilnehmer ist nicht berechtigt, das Beta-Produkt zu modifizieren, zu disassemblieren, zu dekompilieren, Reverse Engineering zu betreiben oder auf andere Weise zu versuchen, den Quellcode oder die zugrunde liegende Struktur des Beta-Produkts zu ermitteln.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "6. Geistiges Eigentum",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Alle Rechte am Beta-Produkt, einschließlich, aber nicht beschränkt auf Urheberrechte, Patente, Markenrechte und Geschäftsgeheimnisse, verbleiben ausschließlich beim Anbieter. Der Teilnehmer erhält lediglich eine nicht-exklusive, nicht übertragbare, widerrufliche Lizenz zur Nutzung des Beta-Produkts für die Dauer und den Zweck des Beta-Tests. Sämtliches Feedback, Vorschläge, Ideen oder andere Informationen, die der Teilnehmer im Rahmen des Beta-Tests an den Anbieter übermittelt, gehen in das alleinige Eigentum des Anbieters über. Der Teilnehmer tritt hiermit alle Rechte an solchem Feedback an den Anbieter ab und verzichtet auf jegliche Ansprüche auf Vergütung oder Anerkennung in Bezug auf die Nutzung dieses Feedbacks durch den Anbieter.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "7. Datenschutz",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die Erhebung, Verarbeitung und Nutzung personenbezogener Daten der Teilnehmer erfolgt gemäß der Datenschutzerklärung des Anbieters und den anwendbaren Datenschutzgesetzen (insbesondere der Datenschutz-Grundverordnung – DSGVO). Der Teilnehmer wird darauf hingewiesen, dass im Rahmen des Beta-Tests Nutzungsdaten und Fehlerprotokolle erfasst werden können, um die Funktionalität und Stabilität des Beta-Produkts zu verbessern. Diese Daten werden pseudonymisiert oder anonymisiert, soweit dies technisch möglich und zum Testzweck ausreichend ist. Detaillierte Informationen zur Datenverarbeitung sind der Datenschutzerklärung des Anbieters zu entnehmen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "8. Haftungsausschluss",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Anbieter übernimmt keine Haftung für direkte oder indirekte Schäden, die dem Teilnehmer oder Dritten durch die Nutzung oder Nichtnutzung des Beta-Produkts entstehen, es sei denn, diese Schäden beruhen auf Vorsatz oder grober Fahrlässigkeit des Anbieters. Dies gilt insbesondere für Datenverlust, Systemausfälle oder Kompatibilitätsprobleme. Der Teilnehmer nutzt das Beta-Produkt auf eigenes Risiko. Der Anbieter gibt keine Zusicherungen oder Garantien hinsichtlich der Funktionalität, Zuverlässigkeit, Fehlerfreiheit oder Eignung des Beta-Produkts für einen bestimmten Zweck.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "9. Beendigung der Teilnahme",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Anbieter behält sich das Recht vor, die Teilnahme eines Teilnehmers am Beta-Test jederzeit und ohne Angabe von Gründen zu beenden oder den Zugang zum Beta-Produkt zu sperren, insbesondere bei Verstößen gegen diese Bedingungen. Der Teilnehmer kann seine Teilnahme am Beta-Test jederzeit durch E-Mail an den Support beenden. Mit Beendigung der Teilnahme erlöschen alle Rechte des Teilnehmers zur Nutzung des Beta-Produkts.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "10. Schlussbestimmungen",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "children": [
+              {
+                "text": "10.1. Anwendbares Recht und Gerichtsstand",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesen Bedingungen ist der Sitz des Anbieters, sofern der Teilnehmer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist oder keinen allgemeinen Gerichtsstand in Deutschland hat.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "children": [
+              {
+                "text": "10.2. Salvatorische Klausel",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sollten einzelne Bestimmungen dieser Bedingungen ganz oder teilweise unwirksam sein oder werden, so wird die Gültigkeit der übrigen Bestimmungen dadurch nicht berührt. Die unwirksame Bestimmung ist durch eine wirksame Bestimmung zu ersetzen, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung am nächsten kommt.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "children": [
+              {
+                "text": "10.3. Änderungen der Bedingungen",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Anbieter behält sich das Recht vor, diese Bedingungen jederzeit zu ändern. Änderungen werden den Teilnehmern in geeigneter Weise mitgeteilt. Die fortgesetzte Nutzung des Beta-Produkts nach Inkrafttreten der Änderungen gilt als Zustimmung zu den geänderten Bedingungen.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "createdAt": "2025-10-28T12:31:05.773Z",
+        "updatedAt": "2025-11-06T12:40:14.083Z",
+        "publishedAt": null,
+        "locale": "en"
+      }
+    ]
+  },
+  "meta": {}
+}

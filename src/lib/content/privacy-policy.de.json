@@ -1,0 +1,2146 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "wkiyx61qb06vbq4nldb7teze",
+    "title": "Datenschutzerklärung",
+    "content": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Wir begrüßen Sie bei Ihrem Besuch unserer Applikation. Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir verarbeiten Ihre Daten in Übereinstimmung mit den anwendbaren Rechtsvorschriften zum Schutz personenbezogener Daten, insbesondere der EU Datenschutz-Grundverordnung (DS-GVO) und den für uns geltenden landesspezifischen Ausführungsgesetzen. Mithilfe dieser Datenschutzerklärung informieren wir Sie umfassend über die Verarbeitung Ihrer personenbezogenen Daten durch die GP Human Compliance GmbH und die Ihnen zustehenden Rechte.  ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Personenbezogene Daten sind dabei diejenigen Informationen, die eine Identifizierung einer natürlichen Person möglich machen. Dazu gehören insbesondere Name, Geburtsdatum, Adresse, Telefonnummer, E-Mail-Adresse aber auch Ihre IP-Adresse. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Anonyme Daten liegen vor, wenn keinerlei Personenbezug zum Nutzer hergestellt werden kann. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Verantwortliche Stelle (Anbieter/Betreiber der App) und Datenschutzbeauftragter",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Adresse: GP Human Compliance GmbH, Im Altenschemel 52, D-67435 Neustadt an der Weinstraße",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Kontaktinformation: www.raise-app.de, Tel.:+491726255473, E-Mail: info@gp-hc.de",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Kontakt Datenschutz: info@gp-hc.de",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Ihre Rechte als betroffene Person",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Zunächst möchten wir Sie an dieser Stelle über Ihre Rechte als betroffene Person informieren. Diese Rechte sind in den Art. 15 – 22 DS-GVO normiert. Dies umfasst: ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Das Recht auf Auskunft (Art. 15 DS-GVO)",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Das Recht auf Löschung (Art. 17 DS-GVO)",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Das Recht auf Berichtigung (Art. 16 DS-GVO)",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Das Recht auf Datenübertragbarkeit (Art. 20 DS-GVO)",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Das Recht auf Einschränkung der Datenverarbeitung (Art. 18 DS-GVO)",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Das Widerspruchsrecht gegen die Datenverarbeitung (Art. 21 DS-GVO)",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Um diese Rechte geltend zu machen, wenden Sie sich bitte an: info@gp-hc.de",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Gleiches gilt, wenn Sie Fragen zur Datenverarbeitung in unserem Unternehmen haben oder eine erteilte Einwilligung widerrufen möchten. Ihnen steht zudem ein Beschwerderecht an eine Datenschutzaufsichtsbehörde zu.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Widerspruchsrechte",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Bitte beachten Sie im Zusammenhang mit Widerspruchsrechten folgendes: ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Wenn wir Ihre personenbezogenen Daten zum Zwecke der Direktwerbung verarbeiten, haben Sie das Recht, dieser Datenverarbeitung jederzeit ohne Angaben von Gründen zu widersprechen. Dies gilt auch für ein Profiling, soweit es mit der Direktwerbung in Verbindung steht. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Wenn Sie der Verarbeitung für Zwecke der Direktwerbung widersprechen, so werden wir Ihre personenbezogenen Daten nicht mehr für diese Zwecke verarbeiten. Der Widerspruch ist kostenlos und kann formfrei erfolgen, möglichst an:",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "GP Human Compliance GmbH\nIm Altenschemel 52\nD-67435 Neustadt an der Weinstraße\ninfo@gp-hc.de",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Für den Fall, dass wir Ihre Daten zur Wahrung berechtigter Interessen verarbeiten, können Sie dieser Verarbeitung aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit widersprechen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Wir verarbeiten Ihre personenbezogenen Daten dann nicht mehr, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Zwecke und Rechtsgrundlagen der Datenverarbeitung",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Bei der Verarbeitung Ihrer personenbezogenen Daten werden die Bestimmungen der DS-GVO und alle sonstigen geltenden datenschutzrechtlichen Bestimmungen eingehalten. Rechtsgrundlagen für die Datenverarbeitung ergeben sich insbesondere aus Art. 6 DS-GVO. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Wir erheben und verwenden Ihre Daten zur Geschäftsanbahnung, zur Erfüllung vertraglicher und gesetzlicher Pflichten, zur Durchführung des Vertragsverhältnisses, insbesondere zur ordnungsgemäßen Ausführung und Bereitstellung der funktionsfähigen Raise-App sowie der damit in Zusammenhang stehenden Inhalte und Leistungen erforderlich ist.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Aufgrund unseres berechtigten Interesses an der Optimierung der Dienstleistung und mithin dem Nutzenerlebnis, interner Abläufe und des Kundenservices erfassen wir personenbezogene Nutzungsstatistiken. Sollten Sie hiermit nicht einverstanden sein, haben Sie jederzeit die Möglichkeit dieser Verarbeitung mit Wirkung für die Zukunft zu widersprechen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Ihre Einwilligung in die Datenverarbeitung kann auch eine datenschutzrechtliche Erlaubnisvorschrift darstellen. Vor Erteilung der Einwilligung klären wir Sie über den Zweck der Datenverarbeitung und über Ihr Widerrufsrecht auf. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Sollte sich die Einwilligung auch auf die Verarbeitung besonderer Kategorien von personenbezogenen Daten beziehen, werden wir Sie in der Einwilligung ausdrücklich darauf hinweisen. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Sie haben im Rahmen der Nutzung der Raise-App die Möglichkeit Ihren Bedarf zu formulieren und entsprechende Kriterien festzulegen (Ziele formulieren und Rahmenbedingungen bedenken). Es ist in diesem Zusammenhang Ihre freiwillige Entscheidung, ob Sie hier besondere Kategorien von personenbezogenen Daten (z.B. Gesundheitsdaten) angeben, sodass wir auf die Verarbeitung dieser Daten keinen Einfluss haben.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Weitergabe an Dritte",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Wir werden Ihre Daten nur im Rahmen der gesetzlichen Bestimmungen oder bei entsprechender Einwilligung an Dritte weitergeben. Ansonsten erfolgt eine Weitergabe an Dritte nicht, es sei denn wir sind hierzu aufgrund zwingender Rechtsvorschriften dazu verpflichtet (Weitergabe an externe Stellen, wie z. B. Aufsichtsbehörden oder Strafverfolgungsbehörden). ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Empfänger der Daten/Kategorien von Empfängern",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Innerhalb unseres Unternehmens stellen wir sicher, dass nur diejenigen Personen Ihre Daten erhalten, die diese zur Erfüllung der vertraglichen und gesetzlichen Pflichten benötigen. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "In bestimmten Fällen unterstützen Dienstleister unsere Fachabteilungen bei der Erfüllung ihrer Aufgaben. Mit allen Dienstleistern wurde das notwendige datenschutzrechtliche Vertragswerk abgeschlossen. Hierzu gehören insbesondere IT- Dienstleister und Anbieter technischer Dienstleistungen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Drittlandübermittlung/Drittlandübermittlungsabsicht",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Eine Datenübermittlung in Drittstaaten (außerhalb der Europäischen Union bzw. des Europäischen Wirtschaftsraums) findet nur statt, soweit dies zur Durchführung des Schuldverhältnisses erforderlich, gesetzlich vorgeschrieben ist oder Sie uns dazu Ihre Einwilligung erteilt haben. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Wir übermitteln Ihre personenbezogenen Daten an Dienstleister außerhalb des Europäischen Wirtschaftsraums, nämlich in die USA.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die Einhaltung des Datenschutzniveaus wird dabei gewährleistet durch die Verwendung von EU-Standarddatenschutzklauseln sowie – sofern erforderlich –weitere Garantien. Die Dienstleister sind durch entsprechende vertragliche Regelungen verpflichtet, die Datenschutzstandards und somit das Datenschutzniveau der EU einzuhalten. Eine Datenverarbeitung bzw. -speicherung in Drittländern kann auch auf Grundlage Ihrer Einwilligung erfolgen (Art. 49 Abs. 1 S. 1 lit. a DS-GVO), in diesem Fall werden Sie im Rahmen der Einholung Ihrer Einwilligung hierauf gesondert hingewiesen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Speicherdauer der Daten",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Wir speichern Ihre Daten solange diese für den jeweiligen Verarbeitungszweck benötigt werden. Bitte beachten Sie, dass zahlreiche Aufbewahrungsfristen bedingen, dass Daten weiterhin gespeichert werden (müssen). Dies betrifft insbesondere handelsrechtliche oder steuerrechtliche Aufbewahrungspflichten (z. B. Handelsgesetzbuch, Abgabenordnung etc.). Sofern keine weitergehenden Aufbewahrungspflichten bestehen, werden die Daten nach Zweckerreichung routinemäßig gelöscht. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Hinzu kommt, dass wir Daten aufbewahren können, wenn Sie uns hierfür Ihre Erlaubnis erteilt haben oder wenn es zu rechtlichen Auseinandersetzungen kommt und wir Beweismittel im Rahmen gesetzlicher Verjährungsfristen nutzen, die bis zu dreißig Jahre betragen können; die regelmäßige Verjährungsfrist beträgt drei Jahre. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Sichere Übertragung Ihrer Daten",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Um die bei uns gespeicherten Daten bestmöglich gegen zufällige oder vorsätzliche Manipulationen, Verlust, Zerstörung oder den Zugriff unberechtigter Personen zu schützen, setzen wir entsprechende technische und organisatorische Sicherheitsmaßnahmen ein. Die Sicherheitslevel werden in Zusammenarbeit mit Sicherheitsexperten laufend überprüft und an neue Sicherheitsstandards angepasst.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Der Datenaustausch von und zu unserer Applikation findet jeweils verschlüsselt statt. Als Verschlüsselungsprotokoll zur sicheren Datenübertragung bieten wir TLS an. Die Nutzerauthentifizierung erfolgt über einen JWT-Tocken, sodass dem Nutzer nur „seine“ Daten bereitgestellt werden. Der Token und das Passwort werden hierbei verschlüsselt in der App gespeichert, sodass nur die App Zugriff hierauf hat.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Verpflichtung zur Bereitstellung der Daten",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Diverse personenbezogene Daten sind für die Begründung, Durchführung und Beendigung des Schuldverhältnisses und der Erfüllung der damit verbundenen vertraglichen und gesetzlichen Pflichten notwendig. Gleiches gilt für die Nutzung unserer Applikation und der verschiedenen Funktionen, die diese zur Verfügung stellt. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Details dazu haben wir im o. g. Punkt für Sie zusammengefasst. In bestimmten Fällen müssen Daten auch aufgrund gesetzlicher Bestimmungen erhoben bzw. zur Verfügung gestellt werden. Bitte beachten Sie, dass eine Bearbeitung Ihrer Anfrage oder die Durchführung des zugrundeliegenden Schuldverhältnisses ohne Bereitstellung dieser Daten nicht möglich ist. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Kategorien, Quellen und Herkunft der Daten",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Welche Daten wir verarbeiten, bestimmt der jeweilige Kontext: Nach Anmeldung dient die Datenverarbeitung hauptsächlich dazu die grundlegende Funktion der Entscheidungsunterstützung sicherzustellen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Bitte beachten Sie, dass wir Informationen für besondere Verarbeitungssituationen gegebenenfalls auch gesondert an geeigneter Stelle zur Verfügung stellen. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 6,
+        "children": [
+          {
+            "text": "Bei der Registrierung und Nutzung unserer Applikation erheben und verarbeiten wir folgende Daten:",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "User-ID",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Datum und Uhrzeit",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Art der Interaktion",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Gerätekennungen",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "E-Mail-Adresse des Nutzers",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "IP-Adresse",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Aus Gründen der technischen Sicherheit (insbesondere zur Abwehr von Angriffsversuchen auf unseren Webserver der Gewährleistung der Stabilität und Sicherheit unserer Systeme, der Fehleranalyse, der Aufklärung von Missbrauchsfällen und der Optimierung der App-Performance) werden diese Daten gemäß Art. 6 Absatz 1 lit. f DS-GVO gespeichert. Nach spätestens 30 Tagen findet eine Anonymisierung durch Verkürzung der IP-Adresse statt, so dass kein Bezug zum Nutzer hergestellt wird. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 6,
+        "children": [
+          {
+            "text": "Bei Nutzung der Funktionalitäten der App, um den Entscheidungsprozess durchzuführen erheben und verarbeiten wir folgende Daten:",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "formulierter Bedarf",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "festgelegte Kriterien (Ziele und Rahmenbedingungen)",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "kreierte Handlungsoptionen",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Bewertung ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "text": "Entscheidung",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Welche konkreten personenbezogenen Daten in diesem Zusammenhang verarbeitet werden und auch, ob dies besonders sensitive Daten beinhaltet, entscheidet der App-Nutzer selbst, sodass in diesem Zusammenhang bei der Nutzung die eingegebenen Daten verarbeitet werden. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 6,
+        "children": [
+          {
+            "text": "Bei der Nutzung von optionalen AI-Services erheben und verarbeiten wir folgende Daten:",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Hierbei werden die für die Generierung der Entscheidung Teile der durch den Nutzer eingegeben Daten an AI-Dienstleister übertragen, wobei hierbei der Grundsatz der Datenminimierung gewahrt wird und nur die Daten übertragen werden, die für die Anreicherung der Entscheidungsprozesses zwingend notwendig sind.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Eingeräumte Zugriffsrechte",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Damit die App auf Ihrem Endgerät funktioniert, ist es erforderlich, dass der App verschiedene Berechtigungen zum Zugriff auf bestimmte Funktionen des Gerätes eingeräumt werden. Dabei ist es bei allen Geräten, gleich über welches Betriebssystem diese verfügen, erforderlich, der App bestimmte Berechtigungen einzuräumen, die wir „grundlegende Berechtigungen“ nennen. Je nach Betriebssystem des Endgerätes, das Sie nutzen, kann dieses zusätzliche Funktionen aufweisen, für die es erforderlich ist, weitere Berechtigungen einzuräumen, damit die App funktioniert. Diese führen wir im Anschluss an die „grundlegenden Bedingungen“ nach Betriebssystem (Android bzw. iOS) geordnet auf. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Damit eine Authentifizierung des Nutzers möglich ist, wird auf dessen Endgerät das JWT-Token verschlüsselt gespeichert und bei der Authentifizierung in der App entsprechend genutzt",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Das (zufällig) generierte Passwort, welches zur Anmeldung in der App benötigt wird, wird verschlüsselt auf dem Endgerät des Nutzers gespeichert.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Automatisierte Einzelfallentscheidungen ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Wir nutzen keine rein automatisierten Verarbeitungsprozesse zur Herbeiführung einer Entscheidung.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Nutzerprofile/Webtracking-Verfahren ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "children": [
+          {
+            "text": "Nutzung von Google Firebase Analytics",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Innerhalb unserer Applikation verwenden wir den Dienst „Firebase Analytics“ des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 („Google“). Für die Diensteerbringung innerhalb der Europäischen Union ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland verantwortlich.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Google Firebase verwendet Tracking-Technologien, die eine Anlayse der Nutzung unserer Applikation durch Sie ermöglichen. Hierdurch ist es uns möglich festzustellen, welche Funktionen der App für die Nutzer von besonderem Interesse sind und wie wir unsere App verbessern können. Folgende Daten werden hierfür verarbeitet: User-ID, Datum und Uhrzeit, Art und Anzahl der Interaktionen.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Um Ihnen die App kostenfrei zur Verfügung stellen zu können und mithin die aufwändig erstellten Inhalte in vollem Umfang ausspielen und finanzieren zu können, verwenden wir diesen Dienst. Durch die Installation und Akzeptanz unserer Datenschutzerklärung willigen Sie in die beschriebene Datenverarbeitung ein. Die Datenverarbeitung erfolgt mithin auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DS-GVO.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Diese Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen, wobei die Nutzung nach wie vor ohne Beeinträchtigungen möglich bleibt.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Bitte beachten Sie, dass in diesem Zusammenhang personenbezogene Daten in einem Drittland, den USA, verarbeitet werden können. Durch entsprechende vertragliche Regelungen und Garantien wird die Einhaltung des europäischen Datenschutzniveaus für die Datenübertragung und -verarbeitung in Drittländern gewährleistet. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Einsatz von AI-Dienstleistern",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Im Rahmen der Nutzung unserer App bieten wir Usern zur Anreicherung des Entscheidungsprozesses die Möglichkeit auf angebundene AI-Dienstleister zurückzugreifen. Dies ist jedoch freiwillig, sodass die Verarbeitung durch den jeweiligen AI-Dienstleister auf Grundlage der erteilten Einwilligung nach Art. 6 Abs. 1 lit. a DS-GVO durch den User erfolgt, welche bei jeder Nutzung der App-Dienste durch die Betätigung des entsprechenden Feldes erneut erteilt wird.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Bitte beachten Sie, dass in diesem Zusammenhang personenbezogene Daten in einem Drittland, den USA, verarbeitet werden können. Durch die Nutzung dieses Dienstes erteilen Sie mithin die Einwilligung in diese Verarbeitung. Die darin eingegebenen Daten werden beim Dienstleiser nur für die Erfüllung des zugrundeliegenden Zwecks verarbeitet und im Anschluss hieran -wenn der Anreicherungsprozess abgeschlossen ist- jedoch spätestens nach 30 Tagen, gelöscht. Sie haben darüber hinaus das Recht der Datenverarbeitung zu widersprechen. Nachdem jedoch die GP Human Compliance GmbH keinen vollständigen Zugriff auf Ihre personenbezogenen Daten beim AI-Dienstleister hat, sollten Sie sich bei der Geltendmachung direkt an den Anbieter wenden, denn dieser hat jeweils Zugriff auf die personenbezogenen Daten und kann entsprechende Maßnahmen ergreifen. Sollten Sie dennoch Hilfe benötigen, versuchen wir Sie natürlich zu unterstützen. Wenden Sie sich bitte an info@gp-hc.de.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Die Verarbeitung der personenbezogenen Daten durch den Dienstleister erfolgt in diesem Zusammenhang nur zum beschriebenen Zweck. Eine Nutzung der Daten zu Trainingszwecken erfolgt nicht.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Weiterhin wird durch entsprechende vertragliche Regelungen und Garantien die Einhaltung des europäischen Datenschutzniveaus für die Datenübertragung und -verarbeitung in Drittländern gewährleistet. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
+            "text": "Onlineangebote bei Kindern",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Personen unter 16 Jahren dürfen ohne Zustimmung der Erziehungsberechtigten keine personenbezogenen Daten an uns übermitteln bzw. keine Einwilligungserklärung abgeben. Wir möchten Eltern und Erziehungsberechtigte dazu auffordern, an den Online-Aktivitäten und -Interessen ihrer Kinder aktiv teilzunehmen. ",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "",
+            "type": "text"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-10-20T13:16:22.153Z",
+    "updatedAt": "2025-11-06T12:41:09.114Z",
+    "publishedAt": null,
+    "locale": "de",
+    "localizations": [
+      {
+        "id": 3,
+        "documentId": "wkiyx61qb06vbq4nldb7teze",
+        "title": "Data Privacy Policy",
+        "content": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Wir begrüßen Sie bei Ihrem Besuch unserer Applikation. Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir verarbeiten Ihre Daten in Übereinstimmung mit den anwendbaren Rechtsvorschriften zum Schutz personenbezogener Daten, insbesondere der EU Datenschutz-Grundverordnung (DS-GVO) und den für uns geltenden landesspezifischen Ausführungsgesetzen. Mithilfe dieser Datenschutzerklärung informieren wir Sie umfassend über die Verarbeitung Ihrer personenbezogenen Daten durch die GP Human Compliance GmbH und die Ihnen zustehenden Rechte.  ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Personenbezogene Daten sind dabei diejenigen Informationen, die eine Identifizierung einer natürlichen Person möglich machen. Dazu gehören insbesondere Name, Geburtsdatum, Adresse, Telefonnummer, E-Mail-Adresse aber auch Ihre IP-Adresse. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Anonyme Daten liegen vor, wenn keinerlei Personenbezug zum Nutzer hergestellt werden kann. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Verantwortliche Stelle (Anbieter/Betreiber der App) und Datenschutzbeauftragter",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Adresse: GP Human Compliance GmbH, Im Altenschemel 52, D-67435 Neustadt an der Weinstraße",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Kontaktinformation: www.raise-app.de, Tel.:+491726255473, E-Mail: info@gp-hc.de",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Kontakt Datenschutz: info@gp-hc.de",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Ihre Rechte als betroffene Person",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Zunächst möchten wir Sie an dieser Stelle über Ihre Rechte als betroffene Person informieren. Diese Rechte sind in den Art. 15 – 22 DS-GVO normiert. Dies umfasst: ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Das Recht auf Auskunft (Art. 15 DS-GVO)",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Das Recht auf Löschung (Art. 17 DS-GVO)",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Das Recht auf Berichtigung (Art. 16 DS-GVO)",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Das Recht auf Datenübertragbarkeit (Art. 20 DS-GVO)",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Das Recht auf Einschränkung der Datenverarbeitung (Art. 18 DS-GVO)",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Das Widerspruchsrecht gegen die Datenverarbeitung (Art. 21 DS-GVO)",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Um diese Rechte geltend zu machen, wenden Sie sich bitte an: info@gp-hc.de",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Gleiches gilt, wenn Sie Fragen zur Datenverarbeitung in unserem Unternehmen haben oder eine erteilte Einwilligung widerrufen möchten. Ihnen steht zudem ein Beschwerderecht an eine Datenschutzaufsichtsbehörde zu.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Widerspruchsrechte",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Bitte beachten Sie im Zusammenhang mit Widerspruchsrechten folgendes: ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Wenn wir Ihre personenbezogenen Daten zum Zwecke der Direktwerbung verarbeiten, haben Sie das Recht, dieser Datenverarbeitung jederzeit ohne Angaben von Gründen zu widersprechen. Dies gilt auch für ein Profiling, soweit es mit der Direktwerbung in Verbindung steht. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Wenn Sie der Verarbeitung für Zwecke der Direktwerbung widersprechen, so werden wir Ihre personenbezogenen Daten nicht mehr für diese Zwecke verarbeiten. Der Widerspruch ist kostenlos und kann formfrei erfolgen, möglichst an:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "GP Human Compliance GmbH\nIm Altenschemel 52\nD-67435 Neustadt an der Weinstraße\ninfo@gp-hc.de",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Für den Fall, dass wir Ihre Daten zur Wahrung berechtigter Interessen verarbeiten, können Sie dieser Verarbeitung aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit widersprechen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Wir verarbeiten Ihre personenbezogenen Daten dann nicht mehr, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Zwecke und Rechtsgrundlagen der Datenverarbeitung",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Bei der Verarbeitung Ihrer personenbezogenen Daten werden die Bestimmungen der DS-GVO und alle sonstigen geltenden datenschutzrechtlichen Bestimmungen eingehalten. Rechtsgrundlagen für die Datenverarbeitung ergeben sich insbesondere aus Art. 6 DS-GVO. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Wir erheben und verwenden Ihre Daten zur Geschäftsanbahnung, zur Erfüllung vertraglicher und gesetzlicher Pflichten, zur Durchführung des Vertragsverhältnisses, insbesondere zur ordnungsgemäßen Ausführung und Bereitstellung der funktionsfähigen Raise-App sowie der damit in Zusammenhang stehenden Inhalte und Leistungen erforderlich ist.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Aufgrund unseres berechtigten Interesses an der Optimierung der Dienstleistung und mithin dem Nutzenerlebnis, interner Abläufe und des Kundenservices erfassen wir personenbezogene Nutzungsstatistiken. Sollten Sie hiermit nicht einverstanden sein, haben Sie jederzeit die Möglichkeit dieser Verarbeitung mit Wirkung für die Zukunft zu widersprechen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Ihre Einwilligung in die Datenverarbeitung kann auch eine datenschutzrechtliche Erlaubnisvorschrift darstellen. Vor Erteilung der Einwilligung klären wir Sie über den Zweck der Datenverarbeitung und über Ihr Widerrufsrecht auf. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sollte sich die Einwilligung auch auf die Verarbeitung besonderer Kategorien von personenbezogenen Daten beziehen, werden wir Sie in der Einwilligung ausdrücklich darauf hinweisen. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sie haben im Rahmen der Nutzung der Raise-App die Möglichkeit Ihren Bedarf zu formulieren und entsprechende Kriterien festzulegen (Ziele formulieren und Rahmenbedingungen bedenken). Es ist in diesem Zusammenhang Ihre freiwillige Entscheidung, ob Sie hier besondere Kategorien von personenbezogenen Daten (z.B. Gesundheitsdaten) angeben, sodass wir auf die Verarbeitung dieser Daten keinen Einfluss haben.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Weitergabe an Dritte",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Wir werden Ihre Daten nur im Rahmen der gesetzlichen Bestimmungen oder bei entsprechender Einwilligung an Dritte weitergeben. Ansonsten erfolgt eine Weitergabe an Dritte nicht, es sei denn wir sind hierzu aufgrund zwingender Rechtsvorschriften dazu verpflichtet (Weitergabe an externe Stellen, wie z. B. Aufsichtsbehörden oder Strafverfolgungsbehörden). ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Empfänger der Daten/Kategorien von Empfängern",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Innerhalb unseres Unternehmens stellen wir sicher, dass nur diejenigen Personen Ihre Daten erhalten, die diese zur Erfüllung der vertraglichen und gesetzlichen Pflichten benötigen. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In bestimmten Fällen unterstützen Dienstleister unsere Fachabteilungen bei der Erfüllung ihrer Aufgaben. Mit allen Dienstleistern wurde das notwendige datenschutzrechtliche Vertragswerk abgeschlossen. Hierzu gehören insbesondere IT- Dienstleister und Anbieter technischer Dienstleistungen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Drittlandübermittlung/Drittlandübermittlungsabsicht",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Eine Datenübermittlung in Drittstaaten (außerhalb der Europäischen Union bzw. des Europäischen Wirtschaftsraums) findet nur statt, soweit dies zur Durchführung des Schuldverhältnisses erforderlich, gesetzlich vorgeschrieben ist oder Sie uns dazu Ihre Einwilligung erteilt haben. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Wir übermitteln Ihre personenbezogenen Daten an Dienstleister außerhalb des Europäischen Wirtschaftsraums, nämlich in die USA.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die Einhaltung des Datenschutzniveaus wird dabei gewährleistet durch die Verwendung von EU-Standarddatenschutzklauseln sowie – sofern erforderlich –weitere Garantien. Die Dienstleister sind durch entsprechende vertragliche Regelungen verpflichtet, die Datenschutzstandards und somit das Datenschutzniveau der EU einzuhalten. Eine Datenverarbeitung bzw. -speicherung in Drittländern kann auch auf Grundlage Ihrer Einwilligung erfolgen (Art. 49 Abs. 1 S. 1 lit. a DS-GVO), in diesem Fall werden Sie im Rahmen der Einholung Ihrer Einwilligung hierauf gesondert hingewiesen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Speicherdauer der Daten",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Wir speichern Ihre Daten solange diese für den jeweiligen Verarbeitungszweck benötigt werden. Bitte beachten Sie, dass zahlreiche Aufbewahrungsfristen bedingen, dass Daten weiterhin gespeichert werden (müssen). Dies betrifft insbesondere handelsrechtliche oder steuerrechtliche Aufbewahrungspflichten (z. B. Handelsgesetzbuch, Abgabenordnung etc.). Sofern keine weitergehenden Aufbewahrungspflichten bestehen, werden die Daten nach Zweckerreichung routinemäßig gelöscht. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Hinzu kommt, dass wir Daten aufbewahren können, wenn Sie uns hierfür Ihre Erlaubnis erteilt haben oder wenn es zu rechtlichen Auseinandersetzungen kommt und wir Beweismittel im Rahmen gesetzlicher Verjährungsfristen nutzen, die bis zu dreißig Jahre betragen können; die regelmäßige Verjährungsfrist beträgt drei Jahre. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Sichere Übertragung Ihrer Daten",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Um die bei uns gespeicherten Daten bestmöglich gegen zufällige oder vorsätzliche Manipulationen, Verlust, Zerstörung oder den Zugriff unberechtigter Personen zu schützen, setzen wir entsprechende technische und organisatorische Sicherheitsmaßnahmen ein. Die Sicherheitslevel werden in Zusammenarbeit mit Sicherheitsexperten laufend überprüft und an neue Sicherheitsstandards angepasst.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Der Datenaustausch von und zu unserer Applikation findet jeweils verschlüsselt statt. Als Verschlüsselungsprotokoll zur sicheren Datenübertragung bieten wir TLS an. Die Nutzerauthentifizierung erfolgt über einen JWT-Tocken, sodass dem Nutzer nur „seine“ Daten bereitgestellt werden. Der Token und das Passwort werden hierbei verschlüsselt in der App gespeichert, sodass nur die App Zugriff hierauf hat.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Verpflichtung zur Bereitstellung der Daten",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Diverse personenbezogene Daten sind für die Begründung, Durchführung und Beendigung des Schuldverhältnisses und der Erfüllung der damit verbundenen vertraglichen und gesetzlichen Pflichten notwendig. Gleiches gilt für die Nutzung unserer Applikation und der verschiedenen Funktionen, die diese zur Verfügung stellt. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Details dazu haben wir im o. g. Punkt für Sie zusammengefasst. In bestimmten Fällen müssen Daten auch aufgrund gesetzlicher Bestimmungen erhoben bzw. zur Verfügung gestellt werden. Bitte beachten Sie, dass eine Bearbeitung Ihrer Anfrage oder die Durchführung des zugrundeliegenden Schuldverhältnisses ohne Bereitstellung dieser Daten nicht möglich ist. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Kategorien, Quellen und Herkunft der Daten",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Welche Daten wir verarbeiten, bestimmt der jeweilige Kontext: Nach Anmeldung dient die Datenverarbeitung hauptsächlich dazu die grundlegende Funktion der Entscheidungsunterstützung sicherzustellen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Bitte beachten Sie, dass wir Informationen für besondere Verarbeitungssituationen gegebenenfalls auch gesondert an geeigneter Stelle zur Verfügung stellen. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 6,
+            "children": [
+              {
+                "text": "Bei der Registrierung und Nutzung unserer Applikation erheben und verarbeiten wir folgende Daten:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "User-ID",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Datum und Uhrzeit",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Art der Interaktion",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Gerätekennungen",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "E-Mail-Adresse des Nutzers",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "IP-Adresse",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Aus Gründen der technischen Sicherheit (insbesondere zur Abwehr von Angriffsversuchen auf unseren Webserver der Gewährleistung der Stabilität und Sicherheit unserer Systeme, der Fehleranalyse, der Aufklärung von Missbrauchsfällen und der Optimierung der App-Performance) werden diese Daten gemäß Art. 6 Absatz 1 lit. f DS-GVO gespeichert. Nach spätestens 30 Tagen findet eine Anonymisierung durch Verkürzung der IP-Adresse statt, so dass kein Bezug zum Nutzer hergestellt wird. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 6,
+            "children": [
+              {
+                "text": "Bei Nutzung der Funktionalitäten der App, um den Entscheidungsprozess durchzuführen erheben und verarbeiten wir folgende Daten:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "formulierter Bedarf",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "festgelegte Kriterien (Ziele und Rahmenbedingungen)",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "kreierte Handlungsoptionen",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Bewertung ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Entscheidung",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Welche konkreten personenbezogenen Daten in diesem Zusammenhang verarbeitet werden und auch, ob dies besonders sensitive Daten beinhaltet, entscheidet der App-Nutzer selbst, sodass in diesem Zusammenhang bei der Nutzung die eingegebenen Daten verarbeitet werden. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 6,
+            "children": [
+              {
+                "text": "Bei der Nutzung von optionalen AI-Services erheben und verarbeiten wir folgende Daten:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Hierbei werden die für die Generierung der Entscheidung Teile der durch den Nutzer eingegeben Daten an AI-Dienstleister übertragen, wobei hierbei der Grundsatz der Datenminimierung gewahrt wird und nur die Daten übertragen werden, die für die Anreicherung der Entscheidungsprozesses zwingend notwendig sind.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Eingeräumte Zugriffsrechte",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Damit die App auf Ihrem Endgerät funktioniert, ist es erforderlich, dass der App verschiedene Berechtigungen zum Zugriff auf bestimmte Funktionen des Gerätes eingeräumt werden. Dabei ist es bei allen Geräten, gleich über welches Betriebssystem diese verfügen, erforderlich, der App bestimmte Berechtigungen einzuräumen, die wir „grundlegende Berechtigungen“ nennen. Je nach Betriebssystem des Endgerätes, das Sie nutzen, kann dieses zusätzliche Funktionen aufweisen, für die es erforderlich ist, weitere Berechtigungen einzuräumen, damit die App funktioniert. Diese führen wir im Anschluss an die „grundlegenden Bedingungen“ nach Betriebssystem (Android bzw. iOS) geordnet auf. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Damit eine Authentifizierung des Nutzers möglich ist, wird auf dessen Endgerät das JWT-Token verschlüsselt gespeichert und bei der Authentifizierung in der App entsprechend genutzt",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Das (zufällig) generierte Passwort, welches zur Anmeldung in der App benötigt wird, wird verschlüsselt auf dem Endgerät des Nutzers gespeichert.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Automatisierte Einzelfallentscheidungen ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Wir nutzen keine rein automatisierten Verarbeitungsprozesse zur Herbeiführung einer Entscheidung.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Nutzerprofile/Webtracking-Verfahren ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 5,
+            "children": [
+              {
+                "text": "Nutzung von Google Firebase Analytics",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Innerhalb unserer Applikation verwenden wir den Dienst „Firebase Analytics“ des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 („Google“). Für die Diensteerbringung innerhalb der Europäischen Union ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland verantwortlich.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Google Firebase verwendet Tracking-Technologien, die eine Anlayse der Nutzung unserer Applikation durch Sie ermöglichen. Hierdurch ist es uns möglich festzustellen, welche Funktionen der App für die Nutzer von besonderem Interesse sind und wie wir unsere App verbessern können. Folgende Daten werden hierfür verarbeitet: User-ID, Datum und Uhrzeit, Art und Anzahl der Interaktionen.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Um Ihnen die App kostenfrei zur Verfügung stellen zu können und mithin die aufwändig erstellten Inhalte in vollem Umfang ausspielen und finanzieren zu können, verwenden wir diesen Dienst. Durch die Installation und Akzeptanz unserer Datenschutzerklärung willigen Sie in die beschriebene Datenverarbeitung ein. Die Datenverarbeitung erfolgt mithin auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DS-GVO.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Diese Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen, wobei die Nutzung nach wie vor ohne Beeinträchtigungen möglich bleibt.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Bitte beachten Sie, dass in diesem Zusammenhang personenbezogene Daten in einem Drittland, den USA, verarbeitet werden können. Durch entsprechende vertragliche Regelungen und Garantien wird die Einhaltung des europäischen Datenschutzniveaus für die Datenübertragung und -verarbeitung in Drittländern gewährleistet. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Einsatz von AI-Dienstleistern",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Im Rahmen der Nutzung unserer App bieten wir Usern zur Anreicherung des Entscheidungsprozesses die Möglichkeit auf angebundene AI-Dienstleister zurückzugreifen. Dies ist jedoch freiwillig, sodass die Verarbeitung durch den jeweiligen AI-Dienstleister auf Grundlage der erteilten Einwilligung nach Art. 6 Abs. 1 lit. a DS-GVO durch den User erfolgt, welche bei jeder Nutzung der App-Dienste durch die Betätigung des entsprechenden Feldes erneut erteilt wird.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Bitte beachten Sie, dass in diesem Zusammenhang personenbezogene Daten in einem Drittland, den USA, verarbeitet werden können. Durch die Nutzung dieses Dienstes erteilen Sie mithin die Einwilligung in diese Verarbeitung. Die darin eingegebenen Daten werden beim Dienstleiser nur für die Erfüllung des zugrundeliegenden Zwecks verarbeitet und im Anschluss hieran -wenn der Anreicherungsprozess abgeschlossen ist- jedoch spätestens nach 30 Tagen, gelöscht. Sie haben darüber hinaus das Recht der Datenverarbeitung zu widersprechen. Nachdem jedoch die GP Human Compliance GmbH keinen vollständigen Zugriff auf Ihre personenbezogenen Daten beim AI-Dienstleister hat, sollten Sie sich bei der Geltendmachung direkt an den Anbieter wenden, denn dieser hat jeweils Zugriff auf die personenbezogenen Daten und kann entsprechende Maßnahmen ergreifen. Sollten Sie dennoch Hilfe benötigen, versuchen wir Sie natürlich zu unterstützen. Wenden Sie sich bitte an info@gp-hc.de.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Die Verarbeitung der personenbezogenen Daten durch den Dienstleister erfolgt in diesem Zusammenhang nur zum beschriebenen Zweck. Eine Nutzung der Daten zu Trainingszwecken erfolgt nicht.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Weiterhin wird durch entsprechende vertragliche Regelungen und Garantien die Einhaltung des europäischen Datenschutzniveaus für die Datenübertragung und -verarbeitung in Drittländern gewährleistet. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 4,
+            "children": [
+              {
+                "text": "Onlineangebote bei Kindern",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Personen unter 16 Jahren dürfen ohne Zustimmung der Erziehungsberechtigten keine personenbezogenen Daten an uns übermitteln bzw. keine Einwilligungserklärung abgeben. Wir möchten Eltern und Erziehungsberechtigte dazu auffordern, an den Online-Aktivitäten und -Interessen ihrer Kinder aktiv teilzunehmen. ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "createdAt": "2025-11-03T10:21:59.470Z",
+        "updatedAt": "2025-11-06T12:41:04.158Z",
+        "publishedAt": null,
+        "locale": "en"
+      }
+    ]
+  },
+  "meta": {}
+}

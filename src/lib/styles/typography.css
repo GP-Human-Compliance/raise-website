@@ -1,0 +1,11 @@
+/** Importing font files: Google Fonts **/
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+/** Typography config for tailwindcss **/
+@theme {
+    --font-body: "Outfit", sans-serif;
+}
+
+body {
+    @apply font-body text-base;
+}

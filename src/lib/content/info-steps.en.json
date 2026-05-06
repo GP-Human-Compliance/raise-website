@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "documentId": "yjmuoe19801nkpyebbjhyba1",
+      "title": "Evaluation",
+      "text": "Then you have AI evaluate what options\nmatch your goals best.",
+      "createdAt": "2025-10-20T13:00:42.620Z",
+      "updatedAt": "2025-11-05T13:43:40.231Z",
+      "publishedAt": null,
+      "locale": "en",
+      "sortOrder": 4,
+      "icon": {
+        "id": 21,
+        "documentId": "w90txyt2wx1fze2cdgv2d652",
+        "name": "Evaluation.svg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 22,
+        "height": 23,
+        "formats": null,
+        "hash": "Evaluation_d427f178ac",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 0.81,
+        "url": "/strapi-media/uploads/Evaluation_d427f178ac.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-10-20T12:55:24.713Z",
+        "updatedAt": "2025-10-20T12:55:24.713Z",
+        "publishedAt": "2025-10-20T12:55:24.713Z"
+      },
+      "localizations": [
+        {
+          "id": 4,
+          "documentId": "yjmuoe19801nkpyebbjhyba1",
+          "title": "Bewertung",
+          "text": "Nun kannst Du von der KI bewerten lassen, welche Optionen am besten passen.",
+          "createdAt": "2025-10-20T12:58:49.645Z",
+          "updatedAt": "2025-11-05T13:43:36.271Z",
+          "publishedAt": null,
+          "locale": "de",
+          "sortOrder": 4
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "documentId": "i9pm00a3s1mgzwhi7sty6ml7",
+      "title": "Criteria",
+      "text": "Next you define what you want to achieve\nand what are limiting factors.",
+      "createdAt": "2025-10-20T13:01:53.225Z",
+      "updatedAt": "2025-11-05T13:44:17.413Z",
+      "publishedAt": null,
+      "locale": "en",
+      "sortOrder": 2,
+      "icon": {
+        "id": 18,
+        "documentId": "vcz1jum37hnntdhdzec12ty1",
+        "name": "Criteria.svg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 23,
+        "height": 23,
+        "formats": null,
+        "hash": "Criteria_0471f4697e",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 1.61,
+        "url": "/strapi-media/uploads/Criteria_0471f4697e.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-10-20T12:55:24.688Z",
+        "updatedAt": "2025-10-20T12:55:24.688Z",
+        "publishedAt": "2025-10-20T12:55:24.689Z"
+      },
+      "localizations": [
+        {
+          "id": 2,
+          "documentId": "i9pm00a3s1mgzwhi7sty6ml7",
+          "title": "Kriterien",
+          "text": "Dann definierst Du, was Du eigentlich erreichen möchtest, und welche Einschränkungen Du dabei hast.",
+          "createdAt": "2025-10-20T12:57:28.971Z",
+          "updatedAt": "2025-11-05T13:43:50.965Z",
+          "publishedAt": null,
+          "locale": "de",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "documentId": "xl1oxi0hw41dqweq4zvai83y",
+      "title": "Decision",
+      "text": "Finally you will make your decision by\ntesting your resistance against the options.",
+      "createdAt": "2025-10-20T13:02:14.924Z",
+      "updatedAt": "2025-11-05T13:44:20.383Z",
+      "publishedAt": null,
+      "locale": "en",
+      "sortOrder": 5,
+      "icon": {
+        "id": 22,
+        "documentId": "hh2puui0xeqzd3visxq7mi0t",
+        "name": "Decision.svg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 31,
+        "height": 23,
+        "formats": null,
+        "hash": "Decision_ba8c52c812",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 1.37,
+        "url": "/strapi-media/uploads/Decision_ba8c52c812.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-10-20T12:55:24.718Z",
+        "updatedAt": "2025-10-20T12:55:24.718Z",
+        "publishedAt": "2025-10-20T12:55:24.718Z"
+      },
+      "localizations": [
+        {
+          "id": 5,
+          "documentId": "xl1oxi0hw41dqweq4zvai83y",
+          "title": "Entscheiden",
+          "text": "Letztlich kommt's auf deinen Bauch an. Du triffst die Entscheidung mittels Widerstandsmessung.",
+          "createdAt": "2025-10-20T12:59:13.773Z",
+          "updatedAt": "2025-11-05T13:43:46.781Z",
+          "publishedAt": null,
+          "locale": "de",
+          "sortOrder": 5
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "documentId": "pqoxntlzn5qze4wcvhxqspyk",
+      "title": "Options",
+      "text": "Now you set options to choose from or\nhave them suggested by AI.",
+      "createdAt": "2025-10-20T13:01:31.492Z",
+      "updatedAt": "2025-11-05T13:44:23.487Z",
+      "publishedAt": null,
+      "locale": "en",
+      "sortOrder": 3,
+      "icon": {
+        "id": 20,
+        "documentId": "b0v3me3qzkv2kdeo07c2w3do",
+        "name": "Options.svg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 31,
+        "height": 23,
+        "formats": null,
+        "hash": "Options_852b2bbc34",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 0.88,
+        "url": "/strapi-media/uploads/Options_852b2bbc34.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-10-20T12:55:24.707Z",
+        "updatedAt": "2025-10-20T12:55:24.707Z",
+        "publishedAt": "2025-10-20T12:55:24.707Z"
+      },
+      "localizations": [
+        {
+          "id": 3,
+          "documentId": "pqoxntlzn5qze4wcvhxqspyk",
+          "title": "Optionen",
+          "text": "Jetzt gibst Du Deine Handlungsoptionen ein oder lässt sie Dir von der KI vorschlagen.",
+          "createdAt": "2025-10-20T12:58:17.649Z",
+          "updatedAt": "2025-11-05T13:43:54.395Z",
+          "publishedAt": null,
+          "locale": "de",
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "documentId": "a0czl6sxb8dlwdj0csnenqad",
+      "title": "Topic",
+      "text": "First you determine your decision topic. AI will help you get to the core of it.",
+      "createdAt": "2025-10-20T13:01:08.714Z",
+      "updatedAt": "2025-11-05T13:44:27.311Z",
+      "publishedAt": null,
+      "locale": "en",
+      "sortOrder": 1,
+      "icon": {
+        "id": 23,
+        "documentId": "ipc8vr3f71biaa7j44ck709x",
+        "name": "Process.svg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 22,
+        "height": 23,
+        "formats": null,
+        "hash": "Process_c2c700389d",
+        "ext": ".svg",
+        "mime": "image/svg+xml",
+        "size": 0.67,
+        "url": "/strapi-media/uploads/Process_c2c700389d.svg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-10-20T13:03:08.639Z",
+        "updatedAt": "2025-10-20T13:03:08.639Z",
+        "publishedAt": "2025-10-20T13:03:08.640Z"
+      },
+      "localizations": [
+        {
+          "id": 1,
+          "documentId": "a0czl6sxb8dlwdj0csnenqad",
+          "title": "Thema",
+          "text": "Zuerst legst Du Dein Thema fest. Die KI hilft Dir den Kern deiner Frage zu finden.",
+          "createdAt": "2025-10-20T12:56:32.334Z",
+          "updatedAt": "2025-11-05T13:44:11.919Z",
+          "publishedAt": null,
+          "locale": "de",
+          "sortOrder": 1
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 5
+    }
+  }
+}

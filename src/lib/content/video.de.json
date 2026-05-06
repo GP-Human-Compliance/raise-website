@@ -1,0 +1,46 @@
+{
+  "data": {
+    "id": 1,
+    "documentId": "o4y5o9hx62u8zyhg5gnomcvm",
+    "Name": "Test Video Teaser",
+    "createdAt": "2025-09-23T13:31:47.474Z",
+    "updatedAt": "2025-11-05T13:46:26.489Z",
+    "publishedAt": null,
+    "locale": "de",
+    "videoSubline": "Yours to decide.",
+    "Video": {
+      "id": 17,
+      "documentId": "zedmlwirig5rpkr5lqzowmiw",
+      "name": "250922_raise_Film.mp4",
+      "alternativeText": null,
+      "caption": null,
+      "width": null,
+      "height": null,
+      "formats": null,
+      "hash": "250922_raise_Film_3efb612a89",
+      "ext": ".mp4",
+      "mime": "video/mp4",
+      "size": 181413.73,
+      "url": "https://raise-strapi.prod.bitingbit.cloud/uploads/250922_raise_Film_3efb612a89.mp4",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-10-13T20:53:37.839Z",
+      "updatedAt": "2025-10-13T20:53:37.839Z",
+      "publishedAt": "2025-10-13T20:53:37.840Z"
+    },
+    "localizations": [
+      {
+        "id": 4,
+        "documentId": "o4y5o9hx62u8zyhg5gnomcvm",
+        "Name": "English Test Video",
+        "createdAt": "2025-09-23T14:48:29.519Z",
+        "updatedAt": "2025-11-05T13:46:30.420Z",
+        "publishedAt": null,
+        "locale": "en",
+        "videoSubline": "Yours to decide."
+      }
+    ]
+  },
+  "meta": {}
+}
