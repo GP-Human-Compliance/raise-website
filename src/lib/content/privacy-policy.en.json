@@ -898,6 +898,43 @@
         "level": 4,
         "children": [
           {
+            "type": "text",
+            "text": "Hosting of this website"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "This website is hosted by GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA (a subsidiary of Microsoft Corporation) on the GitHub Pages platform. When you visit the site, technical connection data — in particular your IP address, date and time of the request, the requested path and browser/device information — is briefly processed by GitHub in order to deliver the site reliably and to prevent attacks."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "The legal basis is Art. 6(1)(f) GDPR (legitimate interest in stable and secure website delivery). Data may be transferred to the USA; GitHub is self-certified under the EU-US Data Privacy Framework. Further information is available in GitHub's privacy statement at https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 4,
+        "children": [
+          {
             "text": "Nutzerprofile/Webtracking-Verfahren ",
             "type": "text"
           }
