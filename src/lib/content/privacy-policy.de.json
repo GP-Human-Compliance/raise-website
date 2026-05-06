@@ -969,6 +969,52 @@
       },
       {
         "type": "heading",
+        "level": 5,
+        "children": [
+          {
+            "type": "text",
+            "text": "Einbindung von YouTube-Videos"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Auf dieser Website binden wir Videos der Plattform „YouTube\" der Anbieterin Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („YouTube\") ein. Wir nutzen den erweiterten Datenschutzmodus von YouTube („youtube-nocookie.com\") in Verbindung mit einem Click-to-Load-Verfahren: Eine Verbindung zu den Servern von YouTube/Google wird erst aufgebaut, sobald Sie aktiv auf das Vorschaubild klicken."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Sobald Sie ein Video starten, erhält YouTube Informationen darüber, dass Sie diese Website aufgerufen haben — insbesondere Ihre IP-Adresse, Datum und Uhrzeit sowie Browser- und Geräteinformationen. Sind Sie zugleich in einem YouTube-/Google-Konto eingeloggt, kann YouTube Ihre Aktivität direkt diesem Konto zuordnen. Sie können das verhindern, indem Sie sich vor dem Start des Videos aus Ihrem Konto ausloggen."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Rechtsgrundlage für diese Verarbeitung ist Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO, die Sie durch den Klick auf das Video erteilen. Im Zusammenhang mit der Einbindung können Daten in die USA übertragen werden. Weitere Informationen zur Datenverarbeitung durch YouTube/Google finden Sie in der Datenschutzerklärung unter https://policies.google.com/privacy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "heading",
         "level": 4,
         "children": [
           {

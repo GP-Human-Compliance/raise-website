@@ -969,6 +969,52 @@
       },
       {
         "type": "heading",
+        "level": 5,
+        "children": [
+          {
+            "type": "text",
+            "text": "Embedding of YouTube videos"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "On this website we embed videos from the \"YouTube\" service provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (\"YouTube\"). We use YouTube's privacy-enhanced mode (\"youtube-nocookie.com\") combined with a click-to-load placeholder: a connection to YouTube/Google servers is only established once you actively click the video thumbnail."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "As soon as you start a video, YouTube receives information that you have visited this website — in particular your IP address, date and time, browser and device data. If you are simultaneously logged into a YouTube/Google account, YouTube can associate this activity directly with your account. You can prevent this by logging out of your account before starting the video."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "The legal basis for this processing is your consent under Art. 6 (1)(a) GDPR, which you grant by clicking the video. Data may be transferred to the USA in connection with the embedding. For further information about data processing by YouTube/Google please see https://policies.google.com/privacy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "heading",
         "level": 4,
         "children": [
           {
