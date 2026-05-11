@@ -4,9 +4,9 @@
     import { fetchRegistrationComponent } from "$lib/strapiClient.js";
     import { MediaQuery } from "svelte/reactivity";
 
-    // TODO: real public store URLs (App Store + Google Play). Placeholders for now.
+    // TODO: real App Store URL — Google Play live, Apple still pending.
     const APPLE_STORE_URL = "#";
-    const GOOGLE_PLAY_URL = "#";
+    const GOOGLE_PLAY_URL = "https://play.google.com/store/apps/details?id=de.entscheidungsos.app";
 
     let strapiData: any = $state(null);
     const locale = $derived(LocalStorageUtil.getLocale());
