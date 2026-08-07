@@ -66,6 +66,7 @@ export async function fetchTopBarData() {
         { id: "beispiele", label: data.mobileNavExample },
         { id: "multiplayer", label: data.mobileNavMultiplayer },
         { id: "tester-registration", label: data.mobileNavTesterRegistration },
+        { id: "raisegpt", label: "raiseGPT" },
         { id: "bugreport", label: data.mobileNavBugReport },
     ];
     return {

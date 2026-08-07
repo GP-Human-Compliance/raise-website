@@ -6,6 +6,7 @@
     import Hero from "./components/Hero.svelte";
     import InfoSteps from "./components/InfoSteps.svelte";
     import Multiplayer from "./components/Multiplayer.svelte";
+    import RaiseGpt from "./components/RaiseGpt.svelte";
     import Teaser from "./components/Teaser.svelte";
     import TesterRegistration from "./components/TesterRegistration.svelte";
     import Topbar from "./components/Topbar.svelte";
@@ -142,10 +143,13 @@
     <div id="multiplayer" class="relative z-30 2xl:mt-[-520px]">
         <Multiplayer />
     </div>
-    <div id="tester-registration" class="relative z-30 mt-20 xl:mb-40 2xl:mt-10">
+    <div id="tester-registration" class="relative z-30 mt-20 scroll-mt-30 2xl:mt-10">
         <TesterRegistration />
     </div>
-    <div id="bugreport" class="relative z-30 mt-18 xl:mt-12 scroll-mt-30">
+    <div id="raisegpt-section" class="relative z-30 mt-8 xl:mt-10 scroll-mt-30">
+        <RaiseGpt />
+    </div>
+    <div id="bugreport" class="relative z-30 mt-18 xl:mt-16 scroll-mt-30">
         <BugReport />
     </div>
 
